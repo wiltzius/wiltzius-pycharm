@@ -13,5 +13,6 @@
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="Non-Project Files" value="Yellow" />
     <property name="FindSplitterProportion" value="0.25" />
+    <property name="Copy.OpenInEditor" value="true" />
   </component>
 </application>
