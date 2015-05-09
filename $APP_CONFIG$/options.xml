@@ -14,5 +14,7 @@
     <property name="Non-Project Files" value="Yellow" />
     <property name="FindSplitterProportion" value="0.25" />
     <property name="Copy.OpenInEditor" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
   </component>
 </application>
