@@ -13,10 +13,10 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.py</mask>
       <mask>*.scss</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
