@@ -91,15 +91,13 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerSettings">
-    <data-views />
-    <general />
-  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="0" />
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="SQL Script" />
+          </list>
         </value>
       </option>
     </recent_templates>
