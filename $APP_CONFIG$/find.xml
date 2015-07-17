@@ -12,9 +12,9 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.scss</mask>
-      <mask>*.html</mask>
       <mask>*.js</mask>
       <mask>*.py</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
