@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.mako.html" type="Mako" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
