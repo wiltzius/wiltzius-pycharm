@@ -85,7 +85,6 @@
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="PyCodeInsightSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
   </component>
