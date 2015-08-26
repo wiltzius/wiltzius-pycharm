@@ -91,6 +91,11 @@
         <entry key="$USER_HOME$/Documents/ENV/bin/python2.7" value="true" />
       </map>
     </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/ENV/bin/python2.7" value="false" />
+      </map>
+    </option>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
