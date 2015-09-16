@@ -96,7 +96,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
-        <entry key="$USER_HOME$/Documents/ENV/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/ENV/bin/python" value="false" />
       </map>
     </option>
   </component>
