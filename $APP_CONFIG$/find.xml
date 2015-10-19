@@ -17,6 +17,7 @@
       <mask>*.py</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
+      <mask>demo_mch/data/*</mask>
     </recentFileMasks>
   </component>
 </application>
