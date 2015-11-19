@@ -2,6 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/tom/Documents/welkin/dingo/analysis/humana_metrics.py'" />
     <option name="defaultScopeName" value="File '/Users/tom/Documents/welkin/dingo/analysis/humana_metrics.py'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/tom/Documents/welkin/dingo/analysis/humana_metrics.py'" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -15,6 +19,7 @@
       <mask>*.py</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
+      <mask>demo_mch/data/*</mask>
     </recentFileMasks>
   </component>
 </application>
