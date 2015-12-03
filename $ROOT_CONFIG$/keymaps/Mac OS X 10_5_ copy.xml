@@ -1,9 +1,13 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="EditorToggleCase" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift meta T" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt F7" />
     <keyboard-shortcut first-keystroke="shift meta U" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="SaveAs">
     <keyboard-shortcut first-keystroke="shift meta S" />
   </action>
