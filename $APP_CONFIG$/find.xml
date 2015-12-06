@@ -1,0 +1,27 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="ss" />
+    <option name="defaultScopeName" value="ss" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="ss" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.scss</mask>
+      <mask>*.py</mask>
+      <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>demo_mch/data/*</mask>
+    </recentFileMasks>
+  </component>
+</application>
