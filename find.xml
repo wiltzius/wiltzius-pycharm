@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ss" />
-    <option name="defaultScopeName" value="ss" />
-    <option name="SEARCH_SCOPE" value="ss" />
+    <option name="customScope" value="protocols" />
+    <option name="defaultScopeName" value="protocols" />
+    <option name="SEARCH_SCOPE" value="protocols" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
