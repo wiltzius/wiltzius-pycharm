@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="multiline array">
+      <action id="Replace" />
+      <typing text-keycode="44:0;44:0;92:0;78:0">,,\n</typing>
+      <action id="ReformatCode" />
+    </macro>
+  </component>
+</application>
