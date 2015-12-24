@@ -97,6 +97,7 @@
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/Documents/ENV/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="false" />
       </map>
     </option>
   </component>
