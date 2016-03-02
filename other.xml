@@ -101,6 +101,12 @@
         <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="false" />
       </map>
     </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/ENV/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="false" />
+      </map>
+    </option>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>

@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="16">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_publish;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="*.mako.html" type="Mako" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="errbit_unicorn" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping ext="recall" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="recall" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
