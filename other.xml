@@ -82,18 +82,24 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/Documents/ENV/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/ENV/bin/python2.7" value="true" />
+        <entry key="$USER_HOME$/Documents/btp-ky2/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="true" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/Documents/ENV/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/ENV/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/Documents/btp-ky2/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/Documents/ENV/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/ENV/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/Documents/btp-ky2/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="false" />
       </map>
     </option>
