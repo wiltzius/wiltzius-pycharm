@@ -93,6 +93,7 @@
         <entry key="$USER_HOME$/Documents/ENV/bin/python2.7" value="false" />
         <entry key="$USER_HOME$/Documents/btp-ky2/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
