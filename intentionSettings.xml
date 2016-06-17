@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Insert documentation string stub" />
+    <ignoreAction name="Python/Specify type for reference in docstring" />
+  </component>
+</application>

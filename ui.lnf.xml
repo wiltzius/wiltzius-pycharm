@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+  </component>
+</application>
