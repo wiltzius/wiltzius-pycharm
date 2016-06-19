@@ -1,0 +1,11 @@
+<keymap version="1" name="toms" parent="Mac OS X 10.5+">
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="GotoSuperMethod" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>

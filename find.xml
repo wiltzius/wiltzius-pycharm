@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="protocols" />
-    <option name="defaultScopeName" value="protocols" />
-    <option name="SEARCH_SCOPE" value="protocols" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="customScope" value="File '/Users/tom/Documents/welkin/dingo/analysis/humana_metrics.py'" />
+    <option name="defaultScopeName" value="File '/Users/tom/Documents/welkin/dingo/analysis/humana_metrics.py'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/tom/Documents/welkin/dingo/analysis/humana_metrics.py'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -12,11 +11,13 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.html</mask>
-      <mask>*.js</mask>
-      <mask>demo_mch/data/*</mask>
       <mask>*.scss</mask>
+      <mask>demo_mch/data/*</mask>
+      <mask>*.html</mask>
+      <mask>*.js,*.html</mask>
+      <mask>*.recall</mask>
       <mask>*.py</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

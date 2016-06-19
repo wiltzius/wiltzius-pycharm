@@ -77,31 +77,22 @@
   <component name="PyCodeInsightSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="RENAME_PARAMETERS_IN_HIERARCHY" value="false" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/Documents/ENV/bin/python" value="true" />
-        <entry key="$USER_HOME$/Documents/ENV/bin/python2.7" value="true" />
-        <entry key="$USER_HOME$/Documents/btp-ky2/env/bin/python" value="false" />
-        <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="true" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/Documents/ENV/bin/python" value="false" />
-        <entry key="$USER_HOME$/Documents/ENV/bin/python2.7" value="false" />
-        <entry key="$USER_HOME$/Documents/btp-ky2/env/bin/python" value="false" />
-        <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="false" />
-        <entry key="/usr/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/Documents/ENV/bin/python" value="false" />
-        <entry key="$USER_HOME$/Documents/ENV/bin/python2.7" value="false" />
-        <entry key="$USER_HOME$/Documents/btp-ky2/env/bin/python" value="false" />
-        <entry key="$USER_HOME$/Documents/btp-lemur/venv/bin/python" value="false" />
       </map>
     </option>
   </component>
