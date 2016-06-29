@@ -1,0 +1,60 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467164345671">
+        <mark key="'" line="38" column="11" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="39" column="11" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>.</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>.</text>
+      </register>
+      <register name="2" type="4">
+        <text>conditions</text>
+      </register>
+      <register name="3" type="4">
+        <text>We empower healthcare companies to operationalize health programs for patients managing chronic</text>
+      </register>
+      <register name="4" type="4">
+        <text />
+      </register>
+      <register name="5" type="4">
+        <text>testVideo</text>
+      </register>
+      <register name="6" type="4">
+        <text>.</text>
+      </register>
+      <register name="7" type="4">
+        <text>fields</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
