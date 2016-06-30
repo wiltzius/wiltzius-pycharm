@@ -3,11 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home_controller.js" timestamp="1467321979277">
+        <mark key="[" line="7" column="130" />
+        <mark key="]" line="7" column="130" />
+        <mark key="^" line="7" column="130" />
+        <mark key="." line="7" column="130" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/__init__.py" timestamp="1467323293802" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_jackpot-scroller.scss" timestamp="1467316807612">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/assets/templates/index.html.mako" timestamp="1467320998207">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467165982615">
         <mark key="[" line="56" column="106" />
@@ -15,12 +27,12 @@
         <mark key="^" line="56" column="106" />
         <mark key="." line="56" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467320032786">
-        <mark key="'" line="118" column="2" />
-        <mark key="[" line="82" column="11" />
-        <mark key="]" line="82" column="11" />
-        <mark key="." line="82" column="11" />
-        <mark key="^" line="82" column="11" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467322691962">
+        <mark key="'" line="12" column="19" />
+        <mark key="[" line="103" column="25" />
+        <mark key="]" line="108" column="6" />
+        <mark key="." line="108" column="6" />
+        <mark key="^" line="108" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467248714263">
         <mark key="[" line="15" column="65" />
@@ -35,24 +47,36 @@
         <mark key="^" line="69" column="32" />
         <mark key="." line="69" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467319973090">
-        <mark key="'" line="38" column="11" />
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="46" />
-        <mark key="^" line="20" column="46" />
-        <mark key="." line="20" column="46" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467322474986">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467248042005">
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="27" column="57" />
-        <mark key="." line="27" column="57" />
-        <mark key="^" line="27" column="57" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467321788836">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="26" column="2" />
+        <mark key="^" line="26" column="2" />
+        <mark key="." line="26" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467322734261">
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="52" />
+        <mark key="." line="36" column="52" />
+        <mark key="^" line="36" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" timestamp="1467309981704">
         <mark key="[" line="65" column="38" />
         <mark key="]" line="65" column="39" />
         <mark key="." line="65" column="39" />
         <mark key="^" line="65" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/navbar.html" timestamp="1467322559537">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="45" />
+        <mark key="^" line="20" column="45" />
+        <mark key="." line="20" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/promise-button.js" timestamp="1467312077424">
         <mark key="[" line="3" column="19" />
@@ -72,50 +96,61 @@
         <mark key="^" line="0" column="78" />
         <mark key="." line="0" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467323245308">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="39" column="11" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="133" column="38" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
       <jump line="326" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
       <jump line="64" column="23" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
+      <jump line="92" column="18" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="118" column="2" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
+      <jump line="49" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="111" column="103" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="151" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="12" column="19" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;content&quot;,</text>
+        <text>image</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;content&quot;,</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ2h0dHA6Ly9pbWFnZXMuY29udGVudGZ1bC5jb20vKionLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;content&quot;,</text>
+        <text>image</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbiBjb250cm9sbGVyJywgY29udGVudCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>p</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICRzY29wZS5wYXJ0bmVycyA9IHBhcnRuZXJzOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text encoding="base64">Iiwg</text>
       </register>
       <register name="7" type="4">
-        <text>-</text>
+        <text>partners</text>
       </register>
       <register name="8" type="4">
-        <text>text</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">OiA=</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
