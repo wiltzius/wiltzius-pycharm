@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/promise-button.js" timestamp="1467312077424">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_jackpot-scroller.scss" timestamp="1467316807612">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467165982615">
         <mark key="[" line="56" column="106" />
@@ -15,7 +15,8 @@
         <mark key="^" line="56" column="106" />
         <mark key="." line="56" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467315162403">
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467320032786">
+        <mark key="'" line="118" column="2" />
         <mark key="[" line="82" column="11" />
         <mark key="]" line="82" column="11" />
         <mark key="." line="82" column="11" />
@@ -27,18 +28,19 @@
         <mark key="^" line="15" column="74" />
         <mark key="." line="15" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467164345671">
-        <mark key="'" line="38" column="11" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-        <mark key="." line="5" column="44" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" timestamp="1467316832609">
+        <mark key="'" line="327" column="0" />
+        <mark key="[" line="68" column="26" />
+        <mark key="]" line="69" column="32" />
+        <mark key="^" line="69" column="32" />
+        <mark key="." line="69" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/resource-action-mole.js" timestamp="1467312363614">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="35" column="12" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467319973090">
+        <mark key="'" line="38" column="11" />
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="20" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467248042005">
         <mark key="[" line="27" column="56" />
@@ -52,46 +54,68 @@
         <mark key="." line="65" column="39" />
         <mark key="^" line="65" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/promise-button.js" timestamp="1467312077424">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/resource-action-mole.js" timestamp="1467312363614">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/nav_controller.js" timestamp="1467320004781">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="^" line="0" column="78" />
+        <mark key="." line="0" column="69" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="39" column="11" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="133" column="38" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
+      <jump line="326" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
+      <jump line="64" column="23" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
+      <jump line="118" column="2" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>&quot;content&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>&quot;content&quot;,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ2h0dHA6Ly9pbWFnZXMuY29udGVudGZ1bC5jb20vKionLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text>&quot;content&quot;,</text>
       </register>
       <register name="2" type="4">
-        <text>this.$q.when();    // must always return a promise for promise-button</text>
+        <text>&quot;</text>
       </register>
       <register name="3" type="4">
         <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>240px</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>!</text>
+        <text>text</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
