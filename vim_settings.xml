@@ -15,6 +15,12 @@
         <mark key="^" line="56" column="106" />
         <mark key="." line="56" column="106" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467315162403">
+        <mark key="[" line="82" column="11" />
+        <mark key="]" line="82" column="11" />
+        <mark key="." line="82" column="11" />
+        <mark key="^" line="82" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467248714263">
         <mark key="[" line="15" column="65" />
         <mark key="]" line="15" column="74" />
@@ -51,41 +57,44 @@
       <jump line="39" column="11" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>this.$q.when();    // must always return a promise for promise-button</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>this.$q.when();    // must always return a promise for promise-button</text>
+        <text>:</text>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJ2h0dHA6Ly9pbWFnZXMuY29udGVudGZ1bC5jb20vKionLAo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>:</text>
       </register>
       <register name="2" type="4">
-        <text>;</text>
+        <text>this.$q.when();    // must always return a promise for promise-button</text>
       </register>
       <register name="3" type="4">
-        <text>240px</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>240px</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>=</text>
-      </register>
-      <register name="7" type="4">
-        <text>!</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="7" type="4">
+        <text>=</text>
+      </register>
+      <register name="8" type="4">
+        <text>!</text>
+      </register>
       <register name="9" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>this.$q.when();    // must always return a promise for promise-button</text>
       </register>
     </registers>
     <search>
