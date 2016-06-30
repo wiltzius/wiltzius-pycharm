@@ -3,11 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_variables.scss" timestamp="1467248929624" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467165982615">
         <mark key="[" line="56" column="106" />
         <mark key="]" line="56" column="106" />
         <mark key="^" line="56" column="106" />
         <mark key="." line="56" column="106" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467248714263">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="74" />
+        <mark key="^" line="15" column="74" />
+        <mark key="." line="15" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467164345671">
         <mark key="'" line="38" column="11" />
@@ -15,6 +22,18 @@
         <mark key="]" line="5" column="44" />
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467248042005">
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="57" />
+        <mark key="." line="27" column="57" />
+        <mark key="^" line="27" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" timestamp="1467248946984">
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="65" column="37" />
+        <mark key="." line="65" column="37" />
+        <mark key="^" line="65" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -28,25 +47,28 @@
         <text>;</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>240px</text>
       </register>
       <register name="3" type="4">
-        <text>conditions</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>We empower healthcare companies to operationalize health programs for patients managing chronic</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text>=</text>
       </register>
       <register name="6" type="4">
-        <text>testVideo</text>
+        <text>!</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>fields</text>
+        <text>h</text>
+      </register>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -60,10 +82,20 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
