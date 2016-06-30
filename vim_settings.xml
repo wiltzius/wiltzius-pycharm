@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_variables.scss" timestamp="1467248929624" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467165982615">
         <mark key="[" line="56" column="106" />
         <mark key="]" line="56" column="106" />
@@ -29,10 +28,10 @@
         <mark key="." line="27" column="57" />
         <mark key="^" line="27" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" timestamp="1467248946984">
-        <mark key="[" line="62" column="13" />
-        <mark key="]" line="65" column="37" />
-        <mark key="." line="65" column="37" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" timestamp="1467309981704">
+        <mark key="[" line="65" column="38" />
+        <mark key="]" line="65" column="39" />
+        <mark key="." line="65" column="39" />
         <mark key="^" line="65" column="37" />
       </file>
     </filemarks>
