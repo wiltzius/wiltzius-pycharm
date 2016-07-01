@@ -68,11 +68,12 @@
         <mark key="^" line="0" column="167" />
         <mark key="." line="0" column="167" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467400112612">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467406108884">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="32" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467322691962">
         <mark key="'" line="12" column="19" />
@@ -186,7 +187,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
         <text>text-align</text>
@@ -198,28 +199,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpIHsKICAgICAgdGV4dC1hbGlnbjogbGVmdDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vQGluY2x1ZGUgYnJlYWtwb2ludCgnc20nKSB7CiAgICAvLyAgbGkgewogICAgLy8gICAgdGV4dC1hbGlnbjogbGVmdDsKICAgIC8vICB9CiAgICAvL30K</text>
       </register>
-      <register name="3" type="4">
-        <text>f</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIG9ubHkgcmVhbGx5IHJlbGV2YW50IGF0IHNtYWxsIHNjcmVlbiBzaXplcyB3aGVuIHRoZSBtZW51IGlzIGV4cGFuZGVkLCBidXQgZG9lcyBubyBoYXJtIG90aGVyd2lzZQogICAgLy90ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>center</text>
       </register>
-      <register name="5" type="4">
-        <text>r</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxpIHsKICAgICAgdGV4dC1hbGlnbjogbGVmdDsKICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>-</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
