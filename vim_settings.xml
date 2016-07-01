@@ -87,12 +87,12 @@
         <mark key="^" line="239" column="49" />
         <mark key="." line="239" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467395712806">
-        <mark key="'" line="110" column="26" />
-        <mark key="[" line="110" column="71" />
-        <mark key="]" line="110" column="78" />
-        <mark key="." line="110" column="78" />
-        <mark key="^" line="110" column="78" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467396777838">
+        <mark key="'" line="110" column="78" />
+        <mark key="[" line="38" column="69" />
+        <mark key="]" line="38" column="101" />
+        <mark key="." line="38" column="101" />
+        <mark key="^" line="38" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467321788836">
         <mark key="[" line="26" column="3" />
@@ -177,7 +177,7 @@
       <jump line="105" column="18" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="107" column="36" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="108" column="20" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
-      <jump line="110" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="110" column="78" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -187,7 +187,7 @@
         <text encoding="base64">IiA=</text>
       </register>
       <register name="/" type="4">
-        <text>partner</text>
+        <text>screenshot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5pbmR1c3RyeUlkVG9OYXZOYW1lID0gXygkc2NvcGUuY29udGVudC5saWZlU2NpZW5jZXNQYWdlKS5rZXlCeSgnZmllbGRzLmluZHVzdHJ5SWQnKS5tYXBWYWx1ZXMoJ2ZpZWxkcy5uYXZOYW1lJykudmFsdWUoKTsK</text>
@@ -224,9 +224,9 @@
       </register>
     </registers>
     <search>
-      <last-search>partner</last-search>
+      <last-search>screenshot</last-search>
       <last-offset />
-      <last-pattern>partner</last-pattern>
+      <last-pattern>screenshot</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -236,8 +236,8 @@
         <entry>video</entry>
         <entry>no-wrap</entry>
         <entry>screenshots</entry>
-        <entry>screenshot</entry>
         <entry>partner</entry>
+        <entry>screenshot</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
