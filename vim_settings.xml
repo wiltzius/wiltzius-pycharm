@@ -27,11 +27,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/navbar.html" timestamp="1467322559537">
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="45" />
-        <mark key="^" line="20" column="45" />
-        <mark key="." line="20" column="45" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/navbar.html" timestamp="1467400018247">
+        <mark key="[" line="22" column="79" />
+        <mark key="]" line="22" column="94" />
+        <mark key="^" line="22" column="94" />
+        <mark key="." line="22" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/resource-action-mole.js" timestamp="1467312363614">
         <mark key="[" line="35" column="12" />
@@ -68,11 +68,11 @@
         <mark key="^" line="0" column="167" />
         <mark key="." line="0" column="167" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467330293995">
-        <mark key="[" line="42" column="33" />
-        <mark key="]" line="42" column="46" />
-        <mark key="^" line="42" column="46" />
-        <mark key="." line="42" column="46" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467400112612">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467322691962">
         <mark key="'" line="12" column="19" />
@@ -179,55 +179,56 @@
       <jump line="107" column="36" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="108" column="20" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="110" column="78" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IiA=</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>screenshot</text>
+        <text>text-align</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5pbmR1c3RyeUlkVG9OYXZOYW1lID0gXygkc2NvcGUuY29udGVudC5saWZlU2NpZW5jZXNQYWdlKS5rZXlCeSgnZmllbGRzLmluZHVzdHJ5SWQnKS5tYXBWYWx1ZXMoJ2ZpZWxkcy5uYXZOYW1lJykudmFsdWUoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxpIHsKICAgICAgdGV4dC1hbGlnbjogbGVmdDsKICAgIH0K</text>
       </register>
       <register name="3" type="4">
-        <text>=&quot;</text>
+        <text>f</text>
       </register>
       <register name="4" type="4">
-        <text>wrap</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>-</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>no</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>true</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>// todo color</text>
+        <text>i</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>screenshot</last-search>
+      <last-search>text-align</last-search>
       <last-offset />
-      <last-pattern>screenshot</last-pattern>
+      <last-pattern>text-align</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -239,6 +240,7 @@
         <entry>screenshots</entry>
         <entry>partner</entry>
         <entry>screenshot</entry>
+        <entry>text-align</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
