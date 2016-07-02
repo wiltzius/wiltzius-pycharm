@@ -21,11 +21,11 @@
         <mark key="^" line="0" column="155" />
         <mark key="." line="0" column="155" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467331821702">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="47" column="15" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467407286174">
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="91" />
+        <mark key="." line="39" column="91" />
+        <mark key="^" line="39" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/navbar.html" timestamp="1467400018247">
         <mark key="[" line="22" column="79" />
@@ -33,21 +33,37 @@
         <mark key="^" line="22" column="94" />
         <mark key="." line="22" column="94" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_modal.html" timestamp="1467407274593">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_form_controller.js" timestamp="1467407157897">
+        <mark key="'" line="31" column="28" />
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="35" />
+        <mark key="^" line="31" column="35" />
+        <mark key="." line="31" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_form.html" timestamp="1467407576754">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="26" column="10" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/resource-action-mole.js" timestamp="1467312363614">
         <mark key="[" line="35" column="12" />
         <mark key="]" line="35" column="12" />
         <mark key="." line="35" column="12" />
         <mark key="^" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467329274978">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home_controller.js" timestamp="1467331174391">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="131" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467407231649">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_variables.scss" timestamp="1467398498653" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_jackpot-scroller.scss" timestamp="1467316807612">
@@ -68,12 +84,12 @@
         <mark key="^" line="0" column="167" />
         <mark key="." line="0" column="167" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467406108884">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="32" column="21" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467408333803">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467322691962">
         <mark key="'" line="12" column="19" />
@@ -82,19 +98,26 @@
         <mark key="." line="108" column="6" />
         <mark key="^" line="108" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" timestamp="1467394503703">
-        <mark key="'" line="59" column="14" />
-        <mark key="[" line="239" column="53" />
-        <mark key="]" line="239" column="53" />
-        <mark key="^" line="239" column="49" />
-        <mark key="." line="239" column="53" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/_learn_more_form.scss" timestamp="1467407435258">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467396777838">
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" timestamp="1467408570552">
+        <mark key="'" line="59" column="14" />
+        <mark key="[" line="331" column="35" />
+        <mark key="]" line="331" column="34" />
+        <mark key="^" line="331" column="34" />
+        <mark key="." line="331" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467407244490">
         <mark key="'" line="110" column="78" />
-        <mark key="[" line="38" column="69" />
-        <mark key="]" line="38" column="101" />
-        <mark key="." line="38" column="101" />
-        <mark key="^" line="38" column="101" />
+        <mark key="[" line="147" column="56" />
+        <mark key="]" line="147" column="55" />
+        <mark key="." line="147" column="55" />
+        <mark key="^" line="147" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467321788836">
         <mark key="[" line="26" column="3" />
@@ -120,11 +143,6 @@
         <mark key="^" line="18" column="61" />
         <mark key="." line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/jackpot-scroller.js" timestamp="1467331366214">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_base.scss" timestamp="1467399254266">
         <mark key="[" line="68" column="30" />
         <mark key="]" line="69" column="25" />
@@ -149,6 +167,11 @@
         <mark key="]" line="0" column="69" />
         <mark key="^" line="0" column="78" />
         <mark key="." line="0" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/_learn_more_modal.scss" timestamp="1467407736474">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -181,55 +204,60 @@
       <jump line="108" column="20" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="110" column="78" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
+      <jump line="17" column="27" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
+      <jump line="31" column="28" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_form_controller.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/_learn_more_form.scss" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$white;</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>$white;</text>
       </register>
       <register name="/" type="4">
-        <text>text-align</text>
+        <text>z-index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5pbmR1c3RyeUlkVG9OYXZOYW1lID0gXygkc2NvcGUuY29udGVudC5saWZlU2NpZW5jZXNQYWdlKS5rZXlCeSgnZmllbGRzLmluZHVzdHJ5SWQnKS5tYXBWYWx1ZXMoJ2ZpZWxkcy5uYXZOYW1lJykudmFsdWUoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>$white;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vQGluY2x1ZGUgYnJlYWtwb2ludCgnc20nKSB7CiAgICAvLyAgbGkgewogICAgLy8gICAgdGV4dC1hbGlnbjogbGVmdDsKICAgIC8vICB9CiAgICAvL30K</text>
+        <text encoding="base64">ICAgIC8vZm9ybSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIG9ubHkgcmVhbGx5IHJlbGV2YW50IGF0IHNtYWxsIHNjcmVlbiBzaXplcyB3aGVuIHRoZSBtZW51IGlzIGV4cGFuZGVkLCBidXQgZG9lcyBubyBoYXJtIG90aGVyd2lzZQogICAgLy90ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgIC8vfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>center</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBAZXh0ZW5kIC5wYWRkZGVkLWJ1dHRvbjsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpIHsKICAgICAgdGV4dC1hbGlnbjogbGVmdDsKICAgIH0K</text>
+      <register name="6" type="4">
+        <text>m</text>
       </register>
       <register name="7" type="4">
-        <text>f</text>
+        <text />
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text encoding="base64">IGNsYXNzPSJsZWFybk1vcmVGb3I=</text>
       </register>
-      <register name="9" type="4">
-        <text>r</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcmludCBzb3VyY2VfcGFnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>text-align</last-search>
+      <last-search>z-index</last-search>
       <last-offset />
-      <last-pattern>text-align</last-pattern>
+      <last-pattern>z-index</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -242,6 +270,13 @@
         <entry>partner</entry>
         <entry>screenshot</entry>
         <entry>text-align</entry>
+        <entry>zapier</entry>
+        <entry>pluck</entry>
+        <entry>ok</entry>
+        <entry>form['name</entry>
+        <entry>form[name</entry>
+        <entry>submit</entry>
+        <entry>z-index</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
