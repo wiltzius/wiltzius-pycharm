@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" timestamp="1467751611198">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" timestamp="1467753320328">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="70" column="37" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467750647582">
         <mark key="'" line="22" column="6" />
@@ -122,6 +124,7 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/dingo/lib/schema/datatypes.py" timestamp="1467752351869" />
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/promise-button.js" timestamp="1467312077424">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="24" />
@@ -133,11 +136,6 @@
         <mark key="]" line="18" column="61" />
         <mark key="^" line="18" column="61" />
         <mark key="." line="18" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/jackpot-scroller.js" timestamp="1467331366214">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_base.scss" timestamp="1467399254266">
         <mark key="[" line="68" column="30" />
@@ -202,13 +200,16 @@
       <jump line="111" column="48" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="114" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="22" column="6" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
+      <jump line="89" column="47" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAnQUFBQS0wMzY5JywKICAnQUFBQS03NjU4Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhhdCA=</text>
+        <text>re.sub(r&quot;\D&quot;, &quot;&quot;, clean_get(&quot;Patient Phone Number&quot;)),  # strip non-numerics</text>
       </register>
       <register name="/" type="4">
         <text>industryIdToNav</text>
@@ -217,31 +218,31 @@
         <text encoding="base64">ICAgICRzY29wZS5pbmR1c3RyeUlkVG9OYXZOYW1lID0gXygkc2NvcGUuY29udGVudC5saWZlU2NpZW5jZXNQYWdlKS5rZXlCeSgnZmllbGRzLmluZHVzdHJ5SWQnKS5tYXBWYWx1ZXMoJ2ZpZWxkcy5uYXZOYW1lJykudmFsdWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnQUFBQS0wMzY5JywKICAnQUFBQS03NjU4Jwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAnQUFBQS04MTY4JywKICAnQUFBQS0wMzY5JywKICAnQUFBQS03NjU4Jwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdDcmVhdGluZyB3b3JrZXIgd2l0aCBuYW1lICVzLCBlbWFpbCAlcywgYW5kIHJvbGVzICVzJywgdy5mdWxsX25hbWUsIHcuZW1haWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAnLCAnLmpvaW4oUk9MRV9NQVBbY29sXSkpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">dGhhdCA=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICMgIyBwbiA9IHJlLnN1YihyIlxEIiwgIiIsIHBuKSwgICMgc3RyaXAgbm9uLW51bWVyaWNzCiAgICBwcmludCBwbgo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>re.sub(r&quot;\D&quot;, &quot;&quot;, clean_get(&quot;Patient Phone Number&quot;)),  # strip non-numerics</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICwgW2N0eC5lcnJvcihzZWxmLCB2YWx1ZSldCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>re.sub(r&quot;\D&quot;, &quot;&quot;, clean_get(&quot;Patient Phone Number&quot;)),  # strip non-numerics</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHdvcmtlci5yb2xlID09IAo=</text>
+        <text encoding="base64">CiAgICBpZiAKICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgcHV0IHRoZSB3b3JrZXIgaW4gYWxsIG5ldnJvIHByb3ZpZGVyIGNvZGVzCiAgICAgICAgICBmb3IgY29kZSBpbiBORVZST19QQ09ERVM6CiAgICAgICAgICAgIFdvcmtlckFzc2lnbm1lbnRVdGlscy5hc3NpZ25fd29ya2VyX3RvX2NvZGUodywgZGIuUHJvdmlkZXJDb2RlLmdldF9vbmUoY29kZT1jb2RlKSkK</text>
+      <register name="7" type="4">
+        <text>:</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgcHV0IHRoZSB3b3JrZXIgaW4gYWxsIG5ldnJvIHByb3ZpZGVyIGNvZGVzCg==</text>
+      <register name="8" type="4">
+        <text>not (phonenumbers.is_valid_number(parsed)):</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRiLldvcmtlckdyb3VwV29ya2VyLmNyZWF0ZSh3b3JrZXJfaWQ9dy5pZCwgd29ya2VyX2dyb3VwX2lkPXdnLmlkKQoK</text>
+      <register name="9" type="4">
+        <text>or parsed.national_number in self.weird_numbers):</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
