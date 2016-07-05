@@ -3,19 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" timestamp="1467753320328">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="70" column="37" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467750647582">
         <mark key="'" line="22" column="6" />
-        <mark key="[" line="97" column="66" />
-        <mark key="]" line="98" column="75" />
-        <mark key="^" line="98" column="75" />
-        <mark key="." line="98" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467331636766">
         <mark key="[" line="35" column="24" />
@@ -35,11 +24,14 @@
         <mark key="^" line="0" column="155" />
         <mark key="." line="0" column="155" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467407286174">
-        <mark key="[" line="39" column="55" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467759287568">
+        <mark key="[" line="26" column="67" />
         <mark key="]" line="39" column="91" />
         <mark key="." line="39" column="91" />
         <mark key="^" line="39" column="91" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/resources/inbox_resources.py" timestamp="1467756048919">
+        <mark key="'" line="59" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_modal.html" timestamp="1467407274593">
         <mark key="[" line="11" column="36" />
@@ -105,12 +97,19 @@
         <mark key="." line="108" column="6" />
         <mark key="^" line="108" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467743748780">
-        <mark key="'" line="114" column="26" />
-        <mark key="[" line="111" column="102" />
-        <mark key="]" line="111" column="29" />
-        <mark key="." line="111" column="29" />
-        <mark key="^" line="111" column="29" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" timestamp="1467759071628">
+        <mark key="'" line="147" column="4" />
+        <mark key="[" line="252" column="21" />
+        <mark key="]" line="253" column="79" />
+        <mark key="." line="253" column="79" />
+        <mark key="^" line="253" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467757387445">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="139" column="8" />
+        <mark key="]" line="139" column="37" />
+        <mark key="." line="139" column="37" />
+        <mark key="^" line="139" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467321788836">
         <mark key="[" line="26" column="3" />
@@ -118,11 +117,18 @@
         <mark key="^" line="26" column="2" />
         <mark key="." line="26" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" timestamp="1467329084229">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="23" />
-        <mark key="." line="36" column="23" />
-        <mark key="^" line="36" column="23" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" timestamp="1467759042640">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="39" column="4" />
+        <mark key="." line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" timestamp="1467759250563">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="55" column="36" />
+        <mark key="." line="55" column="36" />
+        <mark key="^" line="55" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dingo/lib/schema/datatypes.py" timestamp="1467752351869" />
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/promise-button.js" timestamp="1467312077424">
@@ -143,10 +149,10 @@
         <mark key="^" line="69" column="25" />
         <mark key="." line="69" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/press-section.js" timestamp="1467394591599">
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/press-section.js" timestamp="1467758669479">
         <mark key="'" line="23" column="10" />
-        <mark key="[" line="56" column="47" />
-        <mark key="]" line="56" column="51" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="51" column="10" />
         <mark key="." line="56" column="51" />
         <mark key="^" line="56" column="51" />
       </file>
@@ -164,14 +170,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="11" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="133" column="38" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
       <jump line="326" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
       <jump line="64" column="23" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="92" column="18" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="118" column="2" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="49" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
-      <jump line="151" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="12" column="19" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
       <jump line="320" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
@@ -189,7 +193,6 @@
       <jump line="38" column="69" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="105" column="18" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="107" column="36" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
-      <jump line="108" column="20" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="110" column="78" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
@@ -203,55 +206,69 @@
       <jump line="31" column="0" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
       <jump line="89" column="47" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
+      <jump line="108" column="29" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="151" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="147" column="4" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
+      <jump line="33" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="24" column="66" filename="$USER_HOME$/Documents/welkin/dugong/resources/inbox_resources.py" />
+      <jump line="45" column="7" filename="$USER_HOME$/Documents/welkin/dugong/resources/inbox_resources.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/Documents/welkin/dugong/resources/inbox_resources.py" />
+      <jump line="141" column="40" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="164" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="39" column="17" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="32" column="15" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" />
+      <jump line="18" column="28" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" />
+      <jump line="23" column="14" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" />
+      <jump line="39" column="4" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2hlaWdodDogMTIwcHg7ICAgIC8vIGhhY2sgc28gdGhleSdyZSBhbGwgdGhlIHNhbWUgaGVpZ2h0LCBvdGhlcndpc2UgdGhlIHBhZ2UgcmVmbG93cyB3aGVuIHRoZSBjYXJvdXNlbCByb3RhdGVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>re.sub(r&quot;\D&quot;, &quot;&quot;, clean_get(&quot;Patient Phone Number&quot;)),  # strip non-numerics</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>industryIdToNav</text>
+        <text>attr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5pbmR1c3RyeUlkVG9OYXZOYW1lID0gXygkc2NvcGUuY29udGVudC5saWZlU2NpZW5jZXNQYWdlKS5rZXlCeSgnZmllbGRzLmluZHVzdHJ5SWQnKS5tYXBWYWx1ZXMoJ2ZpZWxkcy5uYXZOYW1lJykudmFsdWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGVsZW0uZmluZCgnLml0ZW0nKS5lYWNoKChpZHgsIGVsKSA9PiAkKGVsKS5jc3MoJ21pbi1oZWlnaHQnLCBtYXgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2hlaWdodDogMTIwcHg7ICAgIC8vIGhhY2sgc28gdGhleSdyZSBhbGwgdGhlIHNhbWUgaGVpZ2h0LCBvdGhlcndpc2UgdGhlIHBhZ2UgcmVmbG93cyB3aGVuIHRoZSBjYXJvdXNlbCByb3RhdGVzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkKICAgICMgIyBwbiA9IHJlLnN1YihyIlxEIiwgIiIsIHBuKSwgICMgc3RyaXAgbm9uLW51bWVyaWNzCiAgICBwcmludCBwbgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>re.sub(r&quot;\D&quot;, &quot;&quot;, clean_get(&quot;Patient Phone Number&quot;)),  # strip non-numerics</text>
+        <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICwgW2N0eC5lcnJvcihzZWxmLCB2YWx1ZSldCg==</text>
+      <register name="4" type="4">
+        <text>attr</text>
       </register>
-      <register name="5" type="4">
-        <text>re.sub(r&quot;\D&quot;, &quot;&quot;, clean_get(&quot;Patient Phone Number&quot;)),  # strip non-numerics</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBpZiAKICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRpbmcnKTsgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>:</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>not (phonenumbers.is_valid_number(parsed)):</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdleWFoJyk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>or parsed.national_number in self.weird_numbers):</text>
+        <text>max</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>industryIdToNav</last-search>
+      <last-search>attr</last-search>
       <last-offset />
-      <last-pattern>industryIdToNav</last-pattern>
+      <last-pattern>attr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -272,6 +289,10 @@
         <entry>submit</entry>
         <entry>z-index</entry>
         <entry>industryIdToNav</entry>
+        <entry>inbox</entry>
+        <entry>Inbox</entry>
+        <entry>content</entry>
+        <entry>attr</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
