@@ -65,6 +65,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="77" column="115" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home_controller.js" timestamp="1467741583421">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_variables.scss" timestamp="1467398498653" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_jackpot-scroller.scss" timestamp="1467316807612">
         <mark key="[" line="3" column="18" />
@@ -112,12 +118,12 @@
         <mark key="^" line="331" column="34" />
         <mark key="." line="331" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467407244490">
-        <mark key="'" line="110" column="78" />
-        <mark key="[" line="147" column="56" />
-        <mark key="]" line="147" column="55" />
-        <mark key="." line="147" column="55" />
-        <mark key="^" line="147" column="55" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467742082699">
+        <mark key="'" line="111" column="48" />
+        <mark key="[" line="111" column="76" />
+        <mark key="]" line="111" column="98" />
+        <mark key="." line="111" column="98" />
+        <mark key="^" line="111" column="98" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467321788836">
         <mark key="[" line="26" column="3" />
@@ -182,7 +188,6 @@
       <jump line="92" column="18" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="118" column="2" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="49" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
-      <jump line="111" column="103" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="151" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="12" column="19" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
@@ -209,55 +214,56 @@
       <jump line="31" column="28" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_form_controller.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/_learn_more_form.scss" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" />
+      <jump line="111" column="48" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$white;</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>$white;</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>z-index</text>
+        <text>industryIdToNav</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5pbmR1c3RyeUlkVG9OYXZOYW1lID0gXygkc2NvcGUuY29udGVudC5saWZlU2NpZW5jZXNQYWdlKS5rZXlCeSgnZmllbGRzLmluZHVzdHJ5SWQnKS5tYXBWYWx1ZXMoJ2ZpZWxkcy5uYXZOYW1lJykudmFsdWUoKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>$white;</text>
+        <text>]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vZm9ybSB7Cg==</text>
+      <register name="2" type="4">
+        <text>dlowercase</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">fCA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAZXh0ZW5kIC5wYWRkZGVkLWJ1dHRvbjsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">aGVscCA=</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text encoding="base64">d2Ug</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text encoding="base64">aG93IA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGNsYXNzPSJsZWFybk1vcmVGb3I=</text>
+        <text encoding="base64">TGVhcm4g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwcmludCBzb3VyY2VfcGFnZQo=</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>z-index</last-search>
+      <last-search>industryIdToNav</last-search>
       <last-offset />
-      <last-pattern>z-index</last-pattern>
+      <last-pattern>industryIdToNav</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -277,6 +283,7 @@
         <entry>form[name</entry>
         <entry>submit</entry>
         <entry>z-index</entry>
+        <entry>industryIdToNav</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
