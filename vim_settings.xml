@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467744971981">
+        <mark key="'" line="22" column="6" />
+        <mark key="[" line="88" column="96" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467331636766">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="35" column="24" />
@@ -26,12 +30,6 @@
         <mark key="]" line="39" column="91" />
         <mark key="." line="39" column="91" />
         <mark key="^" line="39" column="91" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/navbar.html" timestamp="1467400018247">
-        <mark key="[" line="22" column="79" />
-        <mark key="]" line="22" column="94" />
-        <mark key="^" line="22" column="94" />
-        <mark key="." line="22" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_modal.html" timestamp="1467407274593">
         <mark key="[" line="11" column="36" />
@@ -65,12 +63,6 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="77" column="115" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home_controller.js" timestamp="1467741583421">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_variables.scss" timestamp="1467398498653" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_jackpot-scroller.scss" timestamp="1467316807612">
         <mark key="[" line="3" column="18" />
@@ -91,7 +83,6 @@
         <mark key="." line="0" column="167" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467408333803">
-        <mark key="'" line="28" column="0" />
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
@@ -104,26 +95,12 @@
         <mark key="." line="108" column="6" />
         <mark key="^" line="108" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/_learn_more_form.scss" timestamp="1467407435258">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" timestamp="1467408570552">
-        <mark key="'" line="59" column="14" />
-        <mark key="[" line="331" column="35" />
-        <mark key="]" line="331" column="34" />
-        <mark key="^" line="331" column="34" />
-        <mark key="." line="331" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467742082699">
-        <mark key="'" line="111" column="48" />
-        <mark key="[" line="111" column="76" />
-        <mark key="]" line="111" column="98" />
-        <mark key="." line="111" column="98" />
-        <mark key="^" line="111" column="98" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467743748780">
+        <mark key="'" line="114" column="26" />
+        <mark key="[" line="111" column="102" />
+        <mark key="]" line="111" column="29" />
+        <mark key="." line="111" column="29" />
+        <mark key="^" line="111" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467321788836">
         <mark key="[" line="26" column="3" />
@@ -174,11 +151,6 @@
         <mark key="^" line="0" column="78" />
         <mark key="." line="0" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/_learn_more_modal.scss" timestamp="1467407736474">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="39" column="11" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
@@ -215,13 +187,15 @@
       <jump line="29" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/_learn_more_form.scss" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" />
       <jump line="111" column="48" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="114" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="22" column="6" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdDcmVhdGluZyB3b3JrZXIgd2l0aCBuYW1lICVzLCBlbWFpbCAlcywgYW5kIHJvbGVzICVzJywgdy5mdWxsX25hbWUsIHcuZW1haWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAnLCAnLmpvaW4oUk9MRV9NQVBbY29sXSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">dGhhdCA=</text>
       </register>
       <register name="/" type="4">
         <text>industryIdToNav</text>
@@ -229,32 +203,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5pbmR1c3RyeUlkVG9OYXZOYW1lID0gXygkc2NvcGUuY29udGVudC5saWZlU2NpZW5jZXNQYWdlKS5rZXlCeSgnZmllbGRzLmluZHVzdHJ5SWQnKS5tYXBWYWx1ZXMoJ2ZpZWxkcy5uYXZOYW1lJykudmFsdWUoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdDcmVhdGluZyB3b3JrZXIgd2l0aCBuYW1lICVzLCBlbWFpbCAlcywgYW5kIHJvbGVzICVzJywgdy5mdWxsX25hbWUsIHcuZW1haWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAnLCAnLmpvaW4oUk9MRV9NQVBbY29sXSkpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>dlowercase</text>
+        <text encoding="base64">dGhhdCA=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">fCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHdvcmtlci5yb2xlID09IAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aGVscCA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICMgcHV0IHRoZSB3b3JrZXIgaW4gYWxsIG5ldnJvIHByb3ZpZGVyIGNvZGVzCiAgICAgICAgICBmb3IgY29kZSBpbiBORVZST19QQ09ERVM6CiAgICAgICAgICAgIFdvcmtlckFzc2lnbm1lbnRVdGlscy5hc3NpZ25fd29ya2VyX3RvX2NvZGUodywgZGIuUHJvdmlkZXJDb2RlLmdldF9vbmUoY29kZT1jb2RlKSkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">d2Ug</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICMgcHV0IHRoZSB3b3JrZXIgaW4gYWxsIG5ldnJvIHByb3ZpZGVyIGNvZGVzCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aG93IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRiLldvcmtlckdyb3VwV29ya2VyLmNyZWF0ZSh3b3JrZXJfaWQ9dy5pZCwgd29ya2VyX2dyb3VwX2lkPXdnLmlkKQoK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">TGVhcm4g</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICMgcHV0IHRoZSB3b3JrZXIgaW4gYWxsIG5ldnJvIHByb3ZpZGVyIGNvZGVzCiAgICAgICAgICBmb3IgY29kZSBpbiBORVZST19QQ09ERVM6CiAgICAgICAgICAgIFdvcmtlckFzc2lnbm1lbnRVdGlscy5hc3NpZ25fd29ya2VyX3RvX2NvZGUodywgZGIuUHJvdmlkZXJDb2RlLmdldF9vbmUoY29kZT1jb2RlKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdDcmVhdGluZyB3b3JrZXIgd2l0aCBuYW1lJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
