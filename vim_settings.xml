@@ -3,8 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467750647582">
+      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" timestamp="1467764819324">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467764504492">
         <mark key="'" line="22" column="6" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="93" column="31" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467331636766">
         <mark key="[" line="35" column="24" />
@@ -97,13 +104,6 @@
         <mark key="." line="108" column="6" />
         <mark key="^" line="108" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" timestamp="1467759071628">
-        <mark key="'" line="147" column="4" />
-        <mark key="[" line="252" column="21" />
-        <mark key="]" line="253" column="79" />
-        <mark key="." line="253" column="79" />
-        <mark key="^" line="253" column="79" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467757387445">
         <mark key="'" line="39" column="17" />
         <mark key="[" line="139" column="8" />
@@ -148,13 +148,6 @@
         <mark key="]" line="69" column="25" />
         <mark key="^" line="69" column="25" />
         <mark key="." line="69" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/press-section.js" timestamp="1467758669479">
-        <mark key="'" line="23" column="10" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="51" column="10" />
-        <mark key="." line="56" column="51" />
-        <mark key="^" line="56" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/pharma.html" timestamp="1467331667921">
         <mark key="[" line="0" column="134" />
@@ -220,55 +213,58 @@
       <jump line="18" column="28" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" />
       <jump line="23" column="14" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" />
       <jump line="39" column="4" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" />
+      <jump line="30" column="13" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
+      <jump line="212" column="2" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL2hlaWdodDogMTIwcHg7ICAgIC8vIGhhY2sgc28gdGhleSdyZSBhbGwgdGhlIHNhbWUgaGVpZ2h0LCBvdGhlcndpc2UgdGhlIHBhZ2UgcmVmbG93cyB3aGVuIHRoZSBjYXJvdXNlbCByb3RhdGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>attr</text>
+        <text>automatic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGVsZW0uZmluZCgnLml0ZW0nKS5lYWNoKChpZHgsIGVsKSA9PiAkKGVsKS5jc3MoJ21pbi1oZWlnaHQnLCBtYXgpKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICMgVE9ETyBvbmx5IGRvIHRoaXMgaWYgdGhlIHdvcmtlcmdyb3Vwd29ya2VyIGRvZXNuJ3QgYWxyZWFkeSBleGlzdAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvL2hlaWdodDogMTIwcHg7ICAgIC8vIGhhY2sgc28gdGhleSdyZSBhbGwgdGhlIHNhbWUgaGVpZ2h0LCBvdGhlcndpc2UgdGhlIHBhZ2UgcmVmbG93cyB3aGVuIHRoZSBjYXJvdXNlbCByb3RhdGVzCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>attr</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRpbmcnKTsgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdleWFoJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRpbmcnKTsgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>max</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>attr</last-search>
+      <last-search>automatic</last-search>
       <last-offset />
-      <last-pattern>attr</last-pattern>
+      <last-pattern>automatic</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -293,6 +289,7 @@
         <entry>Inbox</entry>
         <entry>content</entry>
         <entry>attr</entry>
+        <entry>automatic</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
