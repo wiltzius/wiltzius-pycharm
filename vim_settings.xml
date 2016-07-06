@@ -56,11 +56,11 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467769767386">
+      <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467770491196">
         <mark key="'" line="17" column="27" />
-        <mark key="[" line="68" column="2" />
-        <mark key="]" line="68" column="29" />
-        <mark key="." line="68" column="29" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="25" />
+        <mark key="." line="78" column="25" />
         <mark key="^" line="68" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_variables.scss" timestamp="1467398498653" />
@@ -136,12 +136,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dingo/config.py" timestamp="1467769619801">
+      <file name="$USER_HOME$/Documents/welkin/dingo/config.py" timestamp="1467770428552">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="375" column="70" />
-        <mark key="]" line="378" column="47" />
-        <mark key="^" line="378" column="47" />
-        <mark key="." line="378" column="47" />
+        <mark key="[" line="378" column="49" />
+        <mark key="]" line="378" column="49" />
+        <mark key="^" line="378" column="49" />
+        <mark key="." line="378" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/assets/metadata/sitemap.xml" timestamp="1467326985022">
         <mark key="[" line="13" column="59" />
