@@ -116,11 +116,12 @@
         <mark key="^" line="151" column="58" />
         <mark key="." line="151" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467837697654">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467839518237">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="21" column="83" />
+        <mark key="]" line="21" column="82" />
+        <mark key="." line="21" column="82" />
+        <mark key="^" line="21" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" timestamp="1467759042640">
         <mark key="'" line="39" column="4" />
@@ -246,13 +247,16 @@
       <jump line="112" column="0" filename="$USER_HOME$/Documents/welkin/dugong/client/components/nevro/programming/programming.js" />
       <jump line="201" column="0" filename="$USER_HOME$/Documents/welkin/dugong/client/components/nevro/programming/programming.js" />
       <jump line="378" column="0" filename="$USER_HOME$/Documents/welkin/dingo/config.py" />
+      <jump line="17" column="24" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" />
+      <jump line="31" column="2" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>platypus_zap_hook</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>amprange</text>
@@ -260,32 +264,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgcGxhdHlwdXNfemFwX2hvb2soc2VsZik6CiAgICByZXR1cm4gc2VsZi5nZXQoJ1BsYXR5cHVzJywgJ3phcF9ob29rJywgJ1RydWUnKSA9PSAnVHJ1ZScK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>p</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgcGxhdHlwdXNfY29udGVudGZ1bF90b2tlbihzZWxmKToKICAgIHJldHVybiBzZWxmLmdldCgnUGxhdHlwdXMnLCAnemFwX2hvb2snLCAnVHJ1ZScpID09ICdUcnVlJwo=</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>platypus_zap_hook</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IiA=</text>
+        <text>h</text>
       </register>
       <register name="5" type="4">
-        <text>true</text>
+        <text>$</text>
       </register>
       <register name="6" type="4">
-        <text>=&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>body</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>to</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
