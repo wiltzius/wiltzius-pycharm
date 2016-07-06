@@ -8,10 +8,6 @@
       </file>
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467764504492">
         <mark key="'" line="22" column="6" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="93" column="31" />
-        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467331636766">
         <mark key="[" line="35" column="24" />
@@ -31,11 +27,12 @@
         <mark key="^" line="0" column="155" />
         <mark key="." line="0" column="155" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467759287568">
-        <mark key="[" line="26" column="67" />
-        <mark key="]" line="39" column="91" />
-        <mark key="." line="39" column="91" />
-        <mark key="^" line="39" column="91" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" timestamp="1467766789138">
+        <mark key="'" line="26" column="67" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/resources/inbox_resources.py" timestamp="1467756048919">
         <mark key="'" line="59" column="12" />
@@ -97,19 +94,25 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467322691962">
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" timestamp="1467766227658">
         <mark key="'" line="12" column="19" />
-        <mark key="[" line="103" column="25" />
-        <mark key="]" line="108" column="6" />
-        <mark key="." line="108" column="6" />
-        <mark key="^" line="108" column="6" />
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="39" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467757387445">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="139" column="8" />
-        <mark key="]" line="139" column="37" />
-        <mark key="." line="139" column="37" />
-        <mark key="^" line="139" column="37" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" timestamp="1467766134990">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="150" column="22" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467766171022">
+        <mark key="'" line="26" column="77" />
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="62" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467321788836">
         <mark key="[" line="26" column="3" />
@@ -124,11 +127,12 @@
         <mark key="^" line="39" column="4" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" timestamp="1467759250563">
-        <mark key="[" line="55" column="35" />
-        <mark key="]" line="55" column="36" />
-        <mark key="." line="55" column="36" />
-        <mark key="^" line="55" column="36" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" timestamp="1467766766128">
+        <mark key="'" line="95" column="8" />
+        <mark key="[" line="126" column="23" />
+        <mark key="]" line="128" column="29" />
+        <mark key="." line="128" column="29" />
+        <mark key="^" line="128" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dingo/lib/schema/datatypes.py" timestamp="1467752351869" />
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/promise-button.js" timestamp="1467312077424">
@@ -216,61 +220,65 @@
       <jump line="30" column="13" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
       <jump line="212" column="2" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" />
+      <jump line="142" column="10" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="26" column="77" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="26" column="67" filename="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" />
+      <jump line="55" column="19" filename="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" />
+      <jump line="95" column="8" filename="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS08c3Bhbj57e25hbWV9fTwvc3Bhbj4tLT4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YnV0dG9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>automatic</text>
+        <text>button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGVsZW0uZmluZCgnLml0ZW0nKS5lYWNoKChpZHgsIGVsKSA9PiAkKGVsKS5jc3MoJ21pbi1oZWlnaHQnLCBtYXgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS08c3Bhbj57e25hbWV9fTwvc3Bhbj4tLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgVE9ETyBvbmx5IGRvIHRoaXMgaWYgdGhlIHdvcmtlcmdyb3Vwd29ya2VyIGRvZXNuJ3QgYWxyZWFkeSBleGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gdGhlc2UgbG9vayBiYWQgb24gc21hbGwgc2NyZWVucwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2hlaWdodDogMTIwcHg7ICAgIC8vIGhhY2sgc28gdGhleSdyZSBhbGwgdGhlIHNhbWUgaGVpZ2h0LCBvdGhlcndpc2UgdGhlIHBhZ2UgcmVmbG93cyB3aGVuIHRoZSBjYXJvdXNlbCByb3RhdGVzCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">YnV0dG9uIA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>button</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text encoding="base64">YnV0dG9uIA==</text>
       </register>
       <register name="6" type="4">
-        <text>attr</text>
+        <text>n</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>o</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRpbmcnKTsgCg==</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>automatic</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>automatic</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>press</entry>
         <entry>video</entry>
         <entry>no-wrap</entry>
         <entry>screenshots</entry>
@@ -290,6 +298,7 @@
         <entry>content</entry>
         <entry>attr</entry>
         <entry>automatic</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
