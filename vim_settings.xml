@@ -50,24 +50,18 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_form.html" timestamp="1467407576754">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="26" column="10" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/resource-action-mole.js" timestamp="1467312363614">
         <mark key="[" line="35" column="12" />
         <mark key="]" line="35" column="12" />
         <mark key="." line="35" column="12" />
         <mark key="^" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467768824758">
-        <mark key="'" line="70" column="2" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="2" />
-        <mark key="." line="76" column="2" />
-        <mark key="^" line="75" column="17" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467769767386">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="68" column="2" />
+        <mark key="]" line="68" column="29" />
+        <mark key="." line="68" column="29" />
+        <mark key="^" line="68" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_variables.scss" timestamp="1467398498653" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_jackpot-scroller.scss" timestamp="1467316807612">
@@ -142,23 +136,31 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/dingo/config.py" timestamp="1467769619801">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="375" column="70" />
+        <mark key="]" line="378" column="47" />
+        <mark key="^" line="378" column="47" />
+        <mark key="." line="378" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/assets/metadata/sitemap.xml" timestamp="1467326985022">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="18" column="61" />
         <mark key="^" line="18" column="61" />
         <mark key="." line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_base.scss" timestamp="1467399254266">
-        <mark key="[" line="68" column="30" />
-        <mark key="]" line="69" column="25" />
-        <mark key="^" line="69" column="25" />
-        <mark key="." line="69" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/pharma.html" timestamp="1467331667921">
         <mark key="[" line="0" column="134" />
         <mark key="]" line="0" column="155" />
         <mark key="^" line="0" column="155" />
         <mark key="." line="0" column="155" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dev.ini" timestamp="1467769752071">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="87" column="15" />
+        <mark key="]" line="87" column="14" />
+        <mark key="." line="87" column="14" />
+        <mark key="^" line="87" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/nav_controller.js" timestamp="1467320004781">
         <mark key="[" line="0" column="69" />
@@ -194,7 +196,6 @@
       <jump line="110" column="78" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
-      <jump line="17" column="27" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
       <jump line="31" column="28" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_form_controller.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/_learn_more_form.scss" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" />
@@ -228,66 +229,67 @@
       <jump line="95" column="8" filename="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" />
       <jump line="40" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/assets/templates/index.html.mako" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
-      <jump line="132" column="2" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
       <jump line="70" column="2" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
       <jump line="56" column="11" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/dingo/config.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/dev.ini" />
+      <jump line="24" column="49" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
+      <jump line="132" column="2" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
+      <jump line="17" column="27" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>source_page</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAjIGhhY2t5LCBzb3JyeQo=</text>
       </register>
       <register name="-" type="4">
-        <text>source_page</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>drip</text>
+        <text>ZAP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGVsZW0uZmluZCgnLml0ZW0nKS5lYWNoKChpZHgsIGVsKSA9PiAkKGVsKS5jc3MoJ21pbi1oZWlnaHQnLCBtYXgpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>source_page</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAjIGhhY2t5LCBzb3JyeQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08c3Bhbj57e25hbWV9fTwvc3Bhbj4tLT4K</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gdGhlc2UgbG9vayBiYWQgb24gc21hbGwgc2NyZWVucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YnV0dG9uIA==</text>
+        <text>source_page</text>
       </register>
-      <register name="5" type="4">
-        <text>button</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwhLS08c3Bhbj57e25hbWV9fTwvc3Bhbj4tLT4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YnV0dG9uIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gdGhlc2UgbG9vayBiYWQgb24gc21hbGwgc2NyZWVucwo=</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text encoding="base64">YnV0dG9uIA==</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>button</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text encoding="base64">YnV0dG9uIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>drip</last-search>
+      <last-search>ZAP</last-search>
       <last-offset />
-      <last-pattern>drip</last-pattern>
+      <last-pattern>ZAP</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>no-wrap</entry>
-        <entry>screenshots</entry>
-        <entry>partner</entry>
         <entry>screenshot</entry>
         <entry>text-align</entry>
         <entry>zapier</entry>
@@ -305,6 +307,9 @@
         <entry>automatic</entry>
         <entry>button</entry>
         <entry>drip</entry>
+        <entry>zap</entry>
+        <entry>CAP</entry>
+        <entry>ZAP</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
