@@ -62,12 +62,12 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467407231649">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="115" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467768824758">
+        <mark key="'" line="70" column="2" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="2" />
+        <mark key="." line="76" column="2" />
+        <mark key="^" line="75" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_variables.scss" timestamp="1467398498653" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_jackpot-scroller.scss" timestamp="1467316807612">
@@ -76,7 +76,8 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/assets/templates/index.html.mako" timestamp="1467327445589">
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/assets/templates/index.html.mako" timestamp="1467767430569">
+        <mark key="'" line="40" column="26" />
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
@@ -107,18 +108,18 @@
         <mark key="^" line="150" column="22" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467766171022">
-        <mark key="'" line="26" column="77" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467768981088">
+        <mark key="'" line="56" column="11" />
         <mark key="[" line="62" column="11" />
         <mark key="]" line="62" column="11" />
         <mark key="." line="62" column="11" />
         <mark key="^" line="62" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467321788836">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="26" column="2" />
-        <mark key="^" line="26" column="2" />
-        <mark key="." line="26" column="2" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467768218247">
+        <mark key="[" line="25" column="159" />
+        <mark key="]" line="25" column="201" />
+        <mark key="^" line="25" column="201" />
+        <mark key="." line="25" column="201" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/testimonials.js" timestamp="1467759042640">
         <mark key="'" line="39" column="4" />
@@ -225,43 +226,48 @@
       <jump line="26" column="67" filename="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries.html" />
       <jump line="55" column="19" filename="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" />
       <jump line="95" column="8" filename="$USER_HOME$/Documents/welkin/platypus/client/app/industries/_industries.scss" />
+      <jump line="40" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/assets/templates/index.html.mako" />
+      <jump line="100" column="0" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
+      <jump line="132" column="2" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
+      <jump line="70" column="2" filename="$USER_HOME$/Documents/welkin/platypus/views/views.py" />
+      <jump line="56" column="11" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08c3Bhbj57e25hbWV9fTwvc3Bhbj4tLT4K</text>
+      <register name="&quot;" type="4">
+        <text>source_page</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YnV0dG9uIA==</text>
+        <text>source_page</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>drip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGVsZW0uZmluZCgnLml0ZW0nKS5lYWNoKChpZHgsIGVsKSA9PiAkKGVsKS5jc3MoJ21pbi1oZWlnaHQnLCBtYXgpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08c3Bhbj57e25hbWV9fTwvc3Bhbj4tLT4K</text>
+      <register name="1" type="4">
+        <text>source_page</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwhLS08c3Bhbj57e25hbWV9fTwvc3Bhbj4tLT4K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vIFRPRE8gdGhlc2UgbG9vayBiYWQgb24gc21hbGwgc2NyZWVucwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YnV0dG9uIA==</text>
-      </register>
       <register name="4" type="4">
-        <text>button</text>
+        <text encoding="base64">YnV0dG9uIA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">YnV0dG9uIA==</text>
+        <text>button</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text encoding="base64">YnV0dG9uIA==</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
         <text>t</text>
@@ -271,15 +277,14 @@
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search>drip</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>drip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>video</entry>
         <entry>no-wrap</entry>
         <entry>screenshots</entry>
         <entry>partner</entry>
@@ -299,6 +304,7 @@
         <entry>attr</entry>
         <entry>automatic</entry>
         <entry>button</entry>
+        <entry>drip</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
