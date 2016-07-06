@@ -47,8 +47,12 @@
         <mark key="^" line="19" column="81" />
         <mark key="." line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/ops/cloudformation/main.py" timestamp="1467829069042">
+      <file name="$USER_HOME$/Documents/welkin/ops/cloudformation/main.py" timestamp="1467845332639">
         <mark key="'" line="1398" column="34" />
+        <mark key="[" line="1401" column="31" />
+        <mark key="]" line="1401" column="31" />
+        <mark key="^" line="1400" column="45" />
+        <mark key="." line="1401" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/bower.json" timestamp="1467843187064">
         <mark key="'" line="76" column="0" />
@@ -302,44 +306,44 @@
       <jump line="214" column="33" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bnBtIA==</text>
       </register>
       <register name="-" type="4">
-        <text>// todo color</text>
+        <text encoding="base64">bnBtIA==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgcGxhdHlwdXNfemFwX2hvb2soc2VsZik6CiAgICByZXR1cm4gc2VsZi5nZXQoJ1BsYXR5cHVzJywgJ3phcF9ob29rJywgJ1RydWUnKSA9PSAnVHJ1ZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ25wbSBpbnN0YWxsIG5wbSBib3dlciBibGVzcyAtZycsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">bnBtIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vQGluY2x1ZGUgYnJlYWtwb2ludChzbSkgewogICAgICAvLyBvbiBkZXNrdG9wIG1ha2UgdGhlbSBhIGJpdCBuYXJyb3dlcgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ymxlc3Mg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvL0BpbmNsdWRlIGJyZWFrcG9pbnQoc20pIHsKICAvLyAgLy8gT3ZlcnJpZGVzIGZvciBsYXJnZXItdGhhbi1waG9uZSBzY3JlZW5zCiAgLy8gIHRleHQtYWxpZ246IGNlbnRlcjsKICAvL30K</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ym93ZXIg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL3BhZGRpbmctdG9wOiAkbmF2YmFyLWhlaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ25wbSBpbnN0YWxsJwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gUmVzcG9uc2l2ZSB0eXBvZ3JhcGh5IGhhY2tzCi8vYm9keSB7Ci8vICAkZm9udC1zaXplLWJhc2U6ICR3ZWxraW4tZm9udC1zaXplLWJhc2UtbW9iaWxlOwovLyAgJGZvbnQtc2l6ZS1oMTogMjZweDsKLy8gICRmb250LXNpemUtaDI6IDI2cHg7Ci8vICAvLyBPdmVycmlkZSB0aGUgQm9vdHN0cmFwIHR5cG9ncmFwaHkgbWl4aW5zIGZvciBtb2JpbGUgc3BlY2lmaWNhbGx5Ci8vICBAaW1wb3J0ICcuLi8uLi9ib3dlcl9jb21wb25lbnRzL2Jvb3RzdHJhcC1zYXNzL2Fzc2V0cy9zdHlsZXNoZWV0cy9ib290c3RyYXAvdHlwZSc7CgogIC8vQGluY2x1ZGUgYnJlYWtwb2ludChzbSkgewogIC8vQG1lZGlhIChtaW4td2lkdGg6ICRzY3JlZW4tc20tbWluKSB7CiAgLy8gIC8vIEhBQ0suLi4gcmVkZWZpbmUgYSBidW5jaCBvZiBib290c3RyYXAgdmFyaWFibGVzIHNvIHRoYXQgZm9udHMgYW5kIHN0dWZmIHNjYWxlIG5pY2VseQogIC8vICAvLyB3aXRoIGJyZWFrcG9pbnRzLgogIC8vICAkZm9udC1zaXplLWJhc2U6ICR3ZWxraW4tZm9udC1zaXplLWJhc2UtZGVza3RvcDsKICAvLyAgLy8gcmVzZXQgYW55dGhpbmcgd2Ugb3ZlcnJvZGUgYWJvdmUgdG8gdGhlIGRlZmF1bHQgYm9vdHN0cmFwIGNvbXB1dGVkIHZhbHVlcwogIC8vICAkZm9udC1zaXplLWgxOiBmbG9vcigoJGZvbnQtc2l6ZS1iYXNlICogMi42KSk7CiAgLy8gICRmb250LXNpemUtaDI6IGZsb29yKCgkZm9udC1zaXplLWJhc2UgKiAyLjE1KSk7CiAgLy8gIC8vIFJlLWltcG9ydCB0aGUgQm9vdHN0cmFwIHR5cG9ncmFwaHkgbWl4aW5zIGZvciBkZXNrdG9wCiAgLy8gIC8vCiAgLy8gIC8vIE5PVEUgVGhpcyBuZXN0ZWQgaW1wb3J0IGJyZWFrcyB3aXRoIHJlY2VudCB2ZXJzaW9ucyBvZiBzYXNzLiBTTyBET04nVCBVUEdSQURFLiBXZSd2ZSBmaXhlZCBub2RlLXNhc3MKICAvLyAgLy8gdG8gYSB2ZXJzaW9uIHRoYXQgc3VwcG9ydHMgdGhpcyBraW5kIG9mIGltcG9ydCBpbiBwYWNrYWdlLmpzb24uIENIQU5HRSBBVCBZT1VSIE9XTiBQRVJJTC4KICAvLyAgQGltcG9ydCAnLi4vLi4vYm93ZXJfY29tcG9uZW50cy9ib290c3RyYXAtc2Fzcy9hc3NldHMvc3R5bGVzaGVldHMvYm9vdHN0cmFwL3R5cGUnOwogIC8vfQovL30K</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8IS0tIFRPRE8gdjIgb3B0aW1pemUgZm9udCBzZWxlY3Rpb24gLS0+Cg==</text>
+      <register name="6" type="4">
+        <text># can't seem to install this via &quot;packages&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuJHRyYW5zY2x1ZGUgPSAkdHJhbnNjbHVkZTsK</text>
+        <text encoding="base64">ICAgIC8vfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIG91dHB1dDsK</text>
+        <text encoding="base64">ICAgIC8vQGluY2x1ZGUgYnJlYWtwb2ludChzbSkgewogICAgICAvLyBvbiBkZXNrdG9wIG1ha2UgdGhlbSBhIGJpdCBuYXJyb3dlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyB0cmFuc2NsdWRlOiB7CiAgLy8gICAvLyAndGl0bGUnOiAnaW5kdXN0cnlUaXRsZScsCiAgLy8gICAvLyAnc3VidGl0bGUnOiAnaW5kdXN0cnlTdWJ0aXRsZScsCiAgLy8gICAvLyAnY29udGVudCc6ICdpbmR1c3RyeUNvbnRlbnQnLAogIC8vICAgLy8gJ3BhcnRuZXJzJzogJz9pbmR1c3RyeVBhcnRuZXJzJywKICAvLyB9LAo=</text>
+        <text encoding="base64">ICAvL0BpbmNsdWRlIGJyZWFrcG9pbnQoc20pIHsKICAvLyAgLy8gT3ZlcnJpZGVzIGZvciBsYXJnZXItdGhhbi1waG9uZSBzY3JlZW5zCiAgLy8gIHRleHQtYWxpZ246IGNlbnRlcjsKICAvL30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
