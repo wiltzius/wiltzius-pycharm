@@ -9,6 +9,18 @@
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467764504492">
         <mark key="'" line="22" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/shortfin/package.json" timestamp="1467915952662">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/package.json" timestamp="1467915546483">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467843646696">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -34,7 +46,6 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dingo/resources/visitation.py" timestamp="1467841854016" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/careers/_careers.scss" timestamp="1467843351420">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="28" column="0" />
@@ -47,7 +58,7 @@
         <mark key="^" line="19" column="81" />
         <mark key="." line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/ops/cloudformation/main.py" timestamp="1467845332639">
+      <file name="$USER_HOME$/Documents/welkin/ops/cloudformation/main.py" timestamp="1467916012952">
         <mark key="'" line="1398" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/bower.json" timestamp="1467843187064">
@@ -85,11 +96,11 @@
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/package.json" timestamp="1467843820711">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="5" column="42" />
-        <mark key="." line="5" column="42" />
-        <mark key="^" line="5" column="42" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/package.json" timestamp="1467915882893">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/about/_about.scss" timestamp="1467843333345">
         <mark key="'" line="0" column="0" />
@@ -101,14 +112,12 @@
         <mark key="^" line="104" column="39" />
         <mark key="." line="104" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dingo/resources/encounter.py" timestamp="1467841917236" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_jackpot-scroller.scss" timestamp="1467316807612">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dingo/resources/worker_to_patient_call.py" timestamp="1467841829735" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/assets/templates/index.html.mako" timestamp="1467843725206">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -141,11 +150,11 @@
         <mark key="^" line="150" column="22" />
         <mark key="." line="312" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467843526021">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="150" column="58" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" timestamp="1467914494060">
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="63" />
+        <mark key="^" line="36" column="63" />
+        <mark key="." line="36" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/contentful.js" timestamp="1467840357744">
         <mark key="'" line="33" column="0" />
@@ -307,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bnBtIA==</text>
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnBtIA==</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -319,31 +328,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ25wbSBpbnN0YWxsIG5wbSBib3dlciBibGVzcyAtZycsCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">bnBtIA==</text>
+        <text>^</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ymxlc3Mg</text>
+        <text>&quot;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ym93ZXIg</text>
+        <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ25wbSBpbnN0YWxsJwo=</text>
+      <register name="4" type="4">
+        <text>^</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJwb3N0Y3NzLWJydW5jaCI6ICJeMC40LjIiLAo=</text>
       </register>
       <register name="6" type="4">
-        <text># can't seem to install this via &quot;packages&quot;</text>
+        <text encoding="base64">ICJhbmd1bGFyanMtdGVtcGxhdGVzLWJydW5jaCI6ICJeMS4wLjAiLAogICAgInBvc3Rjc3MtYnJ1bmNoIjogIl4wLjQuMiIsCiAgICAiYXV0b3ByZWZpeGVyIjogIl41LjIuMCIsCiAgICAiYmFiZWwtYnJ1bmNoIjogIl41LjEuMiIsCiAgICAiYmxlc3MiOiAiMy4wLjMiLAogICAgImJydW5jaCI6ICJeMS44LjUiLAogICAgImNhc3BlcmpzIjogIjEuMS4wLWJldGE1IiwKICAgICJjbGVhbi1jc3MtYnJ1bmNoIjogIl4xLjcuMiIsCiAgICAiY3NzLWJydW5jaCI6ICJeMS43LjAiLAogICAgImRpZ2VzdC1icnVuY2giOiAiXjEuNS4xIiwKICAgICJqYXZhc2NyaXB0LWJydW5jaCI6ICJeMS43LjEiLAogICAgIm5vZGUtc2FzcyI6ICIzLjQuMiIsCiAgICAic2Fzcy1icnVuY2giOiAiMS45LjIiLAogICAgInVnbGlmeS1qcy1icnVuY2giOiAiXjEuNy44IiwKICAgICJib3dlciI6ICIxLjcuOSI=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vfQo=</text>
+      <register name="7" type="4">
+        <text>ontent.productScreenshot | orderBy:'fields.displayOrder'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vQGluY2x1ZGUgYnJlYWtwb2ludChzbSkgewogICAgICAvLyBvbiBkZXNrdG9wIG1ha2UgdGhlbSBhIGJpdCBuYXJyb3dlcgo=</text>
+      <register name="8" type="4">
+        <text>c</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL0BpbmNsdWRlIGJyZWFrcG9pbnQoc20pIHsKICAvLyAgLy8gT3ZlcnJpZGVzIGZvciBsYXJnZXItdGhhbi1waG9uZSBzY3JlZW5zCiAgLy8gIHRleHQtYWxpZ246IGNlbnRlcjsKICAvL30K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
