@@ -49,10 +49,6 @@
       </file>
       <file name="$USER_HOME$/Documents/welkin/ops/cloudformation/main.py" timestamp="1467845332639">
         <mark key="'" line="1398" column="34" />
-        <mark key="[" line="1401" column="31" />
-        <mark key="]" line="1401" column="31" />
-        <mark key="^" line="1400" column="45" />
-        <mark key="." line="1401" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/bower.json" timestamp="1467843187064">
         <mark key="'" line="76" column="0" />
@@ -98,8 +94,12 @@
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/about/_about.scss" timestamp="1467843333345">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/nevro/programming/programming.js" timestamp="1467831006097">
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/nevro/programming/programming.js" timestamp="1467853331387">
         <mark key="'" line="197" column="0" />
+        <mark key="[" line="104" column="39" />
+        <mark key="]" line="104" column="39" />
+        <mark key="^" line="104" column="39" />
+        <mark key="." line="104" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dingo/resources/encounter.py" timestamp="1467841917236" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/_jackpot-scroller.scss" timestamp="1467316807612">
