@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467764504492">
         <mark key="'" line="22" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/coach/schedule.html" timestamp="1469127763086">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/shortfin/package.json" timestamp="1467915952662">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="32" />
@@ -93,6 +96,9 @@
         <mark key="]" line="0" column="609" />
         <mark key="^" line="0" column="609" />
         <mark key="." line="0" column="609" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/schedule-action/schedule-action.html" timestamp="1469127771014">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467939706762">
         <mark key="[" line="51" column="57" />
@@ -181,7 +187,7 @@
         <mark key="." line="128" column="29" />
         <mark key="^" line="128" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/promise-button.js" timestamp="1467312077424">
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/promise-button.js" timestamp="1469127848463">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="24" />
         <mark key="^" line="3" column="24" />
@@ -317,6 +323,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/careers/_careers.scss" />
       <jump line="174" column="45" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
       <jump line="214" column="33" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/dugong/client/partials/coach/schedule.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/dugong/client/components/schedule-action/schedule-action.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
