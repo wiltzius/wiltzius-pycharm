@@ -58,9 +58,6 @@
         <mark key="^" line="19" column="81" />
         <mark key="." line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/ops/cloudformation/main.py" timestamp="1467916012952">
-        <mark key="'" line="1398" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/bower.json" timestamp="1467843187064">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="54" column="28" />
@@ -89,6 +86,12 @@
         <mark key="]" line="35" column="12" />
         <mark key="." line="35" column="12" />
         <mark key="^" line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/badids.txt" timestamp="1469060913001">
+        <mark key="[" line="0" column="610" />
+        <mark key="]" line="0" column="609" />
+        <mark key="^" line="0" column="609" />
+        <mark key="." line="0" column="609" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467939706762">
         <mark key="[" line="51" column="57" />
@@ -206,6 +209,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/providers/pccek/scripts/ingestencounter.py" timestamp="1469040416183" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/pharma.html" timestamp="1467331667921">
         <mark key="[" line="0" column="134" />
         <mark key="]" line="0" column="155" />
