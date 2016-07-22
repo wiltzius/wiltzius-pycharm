@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" timestamp="1467764819324">
+      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" timestamp="1469225039821">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467764504492">
         <mark key="'" line="22" column="6" />
@@ -46,6 +49,12 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/careers/_careers.scss" timestamp="1467843351420">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/nevro/baseline_assessment.html" timestamp="1469223955657">
         <mark key="[" line="8" column="0" />
@@ -178,11 +187,11 @@
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/appointments/appointment-prompt.js" timestamp="1467841754188">
         <mark key="'" line="118" column="105" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/base.py" timestamp="1469223563043">
-        <mark key="'" line="1" column="11" />
-        <mark key="[" line="224" column="41" />
-        <mark key="]" line="224" column="45" />
-        <mark key="." line="224" column="45" />
+      <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/base.py" timestamp="1469225057911">
+        <mark key="'" line="225" column="3" />
+        <mark key="[" line="197" column="45" />
+        <mark key="]" line="197" column="45" />
+        <mark key="." line="197" column="45" />
         <mark key="^" line="224" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/nav_controller.js" timestamp="1467320004781">
@@ -289,62 +298,61 @@
       <jump line="1" column="11" filename="$USER_HOME$/Documents/welkin/providers/nevro/protocols/base.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/nevro/baseline_assessment.html" />
       <jump line="19" column="65" filename="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/nevro/baseline_assessment.html" />
+      <jump line="225" column="3" filename="$USER_HOME$/Documents/welkin/providers/nevro/protocols/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwtYWN0aW9uIGFjdGlvbi10eXBlPSJ1cGxvYWRfYXR0YWNobWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlVwbG9hZCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb24tcGFyYW1zPSJ7IGRlZmF1bHRBdHRhY2htZW50OiAnY29uc2VudCcgfSI+CiAgICAgIElmIHRoZSBwYXRpZW50IGhhcyBub3QgeWV0IGdpdmVuIGNvbnNlbnQgZm9yIFNNUyBhbmQvb3IgZW1haWwgY29tbXVuaWNhdGlvbnMsIG9idGFpbiBzaWduZWQgY29uc2VudCBhbmQgdXBsb2FkIGEgcGhvdG8uCiAgICA8L3Byb21wdC12ZXJ0aWNhbC1hY3Rpb24+CiAgICA8cHJvbXB0LXZlcnRpY2FsLWFjdGlvbiBhY3Rpb24tdHlwZT0iZWRpdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlNldCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiPgogICAgICBPbmx5IGVuYWJsZSBjb21tdW5pY2F0aW9uIGNvbnNlbnRzIHRoYXQgeW91IGhhdmUgcmVjZWl2ZWQgcmVjb3JkZWQsIGluZm9ybWVkIGNvbnNlbnQgZm9yLgogICAgPC9wcm9tcHQtdmVydGljYWwtYWN0aW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>consent</text>
+        <text>chart_widgets</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwtYWN0aW9uIGFjdGlvbi10eXBlPSJlbWFpbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlNlbmQgTWF0ZXJpYWxzIj4KICAgICAgU2VuZCBlZHVjYXRpb25hbCBtYXRlcmlhbHMgdmlhIGVtYWlsIGlmIG5lY2Vzc2FyeS4KICAgIDwvcHJvbXB0LXZlcnRpY2FsLWFjdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwtYWN0aW9uIGFjdGlvbi10eXBlPSJ1cGxvYWRfYXR0YWNobWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlVwbG9hZCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb24tcGFyYW1zPSJ7IGRlZmF1bHRBdHRhY2htZW50OiAnY29uc2VudCcgfSI+CiAgICAgIElmIHRoZSBwYXRpZW50IGhhcyBub3QgeWV0IGdpdmVuIGNvbnNlbnQgZm9yIFNNUyBhbmQvb3IgZW1haWwgY29tbXVuaWNhdGlvbnMsIG9idGFpbiBzaWduZWQgY29uc2VudCBhbmQgdXBsb2FkIGEgcGhvdG8uCiAgICA8L3Byb21wdC12ZXJ0aWNhbC1hY3Rpb24+CiAgICA8cHJvbXB0LXZlcnRpY2FsLWFjdGlvbiBhY3Rpb24tdHlwZT0iZWRpdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlNldCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiPgogICAgICBPbmx5IGVuYWJsZSBjb21tdW5pY2F0aW9uIGNvbnNlbnRzIHRoYXQgeW91IGhhdmUgcmVjZWl2ZWQgcmVjb3JkZWQsIGluZm9ybWVkIGNvbnNlbnQgZm9yLgogICAgPC9wcm9tcHQtdmVydGljYWwtYWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm9wdGVkX2luX3RvX3NtcyI6IEZhbHNlLAogICAgICAgICAgICAib3B0ZWRfaW5fdG9fZW1haWwiOiBGYWxzZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGxpPkdhaW4gUGF0aWVudCBDb25zZW50IGZvciBTTVMgJmFtcDsgRW1haWwgY29tbXVuaWNhdGlvbnM8L2xpPgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwtYWN0aW9uIGFjdGlvbi10eXBlPSJ1cGxvYWRfYXR0YWNobWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlVwbG9hZCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb24tcGFyYW1zPSJ7IGRlZmF1bHRBdHRhY2htZW50OiAnY29uc2VudCcgfSI+CiAgICAgIElmIHRoZSBwYXRpZW50IGhhcyBub3QgeWV0IGdpdmVuIGNvbnNlbnQgZm9yIFNNUyBhbmQvb3IgZW1haWwgY29tbXVuaWNhdGlvbnMsIG9idGFpbiBzaWduZWQgY29uc2VudCBhbmQgdXBsb2FkIGEgcGhvdG8uCiAgICA8L3Byb21wdC12ZXJ0aWNhbC1hY3Rpb24+CiAgICA8cHJvbXB0LXZlcnRpY2FsLWFjdGlvbiBhY3Rpb24tdHlwZT0iZWRpdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlNldCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiPgogICAgICBPbmx5IGVuYWJsZSBjb21tdW5pY2F0aW9uIGNvbnNlbnRzIHRoYXQgeW91IGhhdmUgcmVjZWl2ZWQgcmVjb3JkZWQsIGluZm9ybWVkIGNvbnNlbnQgZm9yLgogICAgPC9wcm9tcHQtdmVydGljYWwtYWN0aW9uPgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPGxpPkdhaW4gUGF0aWVudCBDb25zZW50IGZvciBTTVMgJmFtcDsgRW1haWwgY29tbXVuaWNhdGlvbnM8L2xpPgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTxsaT5HYWluIFBhdGllbnQgQ29uc2VudCBmb3IgU01TICZhbXA7IEVtYWlsIGNvbW11bmljYXRpb25zPC9saT4tLT4K</text>
+        <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwtYWN0aW9uIGFjdGlvbi10eXBlPSJ1cGxvYWRfYXR0YWNobWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlVwbG9hZCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb24tcGFyYW1zPSJ7IGRlZmF1bHRBdHRhY2htZW50OiAnY29uc2VudCcgfSI+CiAgICAgIElmIHRoZSBwYXRpZW50IGhhcyBub3QgeWV0IGdpdmVuIGNvbnNlbnQgZm9yIFNNUyBhbmQvb3IgZW1haWwgY29tbXVuaWNhdGlvbnMsIG9idGFpbiBzaWduZWQgY29uc2VudCBhbmQgdXBsb2FkIGEgcGhvdG8uCiAgICA8L3Byb21wdC12ZXJ0aWNhbC1hY3Rpb24+CiAgICA8cHJvbXB0LXZlcnRpY2FsLWFjdGlvbiBhY3Rpb24tdHlwZT0iZWRpdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlNldCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiPgogICAgICBPbmx5IGVuYWJsZSBjb21tdW5pY2F0aW9uIGNvbnNlbnRzIHRoYXQgeW91IGhhdmUgcmVjZWl2ZWQgcmVjb3JkZWQsIGluZm9ybWVkIGNvbnNlbnQgZm9yLgogICAgPC9wcm9tcHQtdmVydGljYWwtYWN0aW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fc21zIiwKICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fZW1haWwiLAo=</text>
+        <text encoding="base64">ICAgICAgPCEtLTxsaT5HYWluIFBhdGllbnQgQ29uc2VudCBmb3IgU01TICZhbXA7IEVtYWlsIGNvbW11bmljYXRpb25zPC9saT4tLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAiL29wdGVkX2luX3RvX3NtcyIsCiAgICAgICAgICAgICAgICAgIi9vcHRlZF9pbl90b19lbWFpbCIsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fc21zIiwKICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fZW1haWwiLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAiL29wdGVkX2luX3RvX3NtcyIsCiAgICAgICAgICAgICAgICAgIi9vcHRlZF9pbl90b19lbWFpbCIsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>^</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fc21zIiwKICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fZW1haWwiLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>consent</last-search>
+      <last-search>chart_widgets</last-search>
       <last-offset />
-      <last-pattern>consent</last-pattern>
+      <last-pattern>chart_widgets</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>content</entry>
-        <entry>attr</entry>
         <entry>automatic</entry>
         <entry>button</entry>
         <entry>drip</entry>
@@ -363,6 +371,8 @@
         <entry>actions</entry>
         <entry>comm</entry>
         <entry>consent</entry>
+        <entry>opted</entry>
+        <entry>chart_widgets</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
