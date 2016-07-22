@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/welkin/dugong/test/functional/test_inbound_sms.py" timestamp="1469213851306" />
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467764504492">
         <mark key="'" line="22" column="6" />
       </file>
@@ -111,11 +112,6 @@
         <mark key="." line="128" column="29" />
         <mark key="^" line="128" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/jackpot-scroller.js" timestamp="1467843578266">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/providers/cooley/protocols/cooley_consult.py" timestamp="1469212354086" />
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/pharma.html" timestamp="1467331667921">
         <mark key="[" line="0" column="134" />
@@ -146,12 +142,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="27" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/careers/_careers.scss" timestamp="1467843351420">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/resources/inbox_resources.py" timestamp="1467756048919">
         <mark key="'" line="59" column="12" />
@@ -231,16 +221,12 @@
         <mark key="^" line="18" column="61" />
         <mark key="." line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/general_education.html" timestamp="1469212526992">
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/general_education.html" timestamp="1469213911264">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_base.scss" timestamp="1467843767341">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dev.ini" timestamp="1467843162854">
         <mark key="'" line="6" column="0" />
