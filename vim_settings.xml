@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/welkin/dugong/test/functional/test_inbound_sms.py" timestamp="1469213851306" />
+      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" timestamp="1467764819324">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467764504492">
         <mark key="'" line="22" column="6" />
       </file>
@@ -16,13 +18,23 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/fabfile/deploy.py" timestamp="1469125690097" />
-      <file name="$USER_HOME$/Documents/welkin/dingo/lib/protocol/protocol.py" timestamp="1469212340439" />
+      <file name="$USER_HOME$/Documents/welkin/dugong/package.json" timestamp="1467915546483">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_mixins.scss" timestamp="1467394697953">
         <mark key="[" line="60" column="52" />
         <mark key="]" line="60" column="51" />
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467843646696">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/payers.html" timestamp="1467331658276">
         <mark key="[" line="0" column="132" />
@@ -30,16 +42,41 @@
         <mark key="^" line="0" column="155" />
         <mark key="." line="0" column="155" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/nevro/trial_procedure.html" timestamp="1469224055616">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/nevro/baseline_assessment.html" timestamp="1469223955657">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/navbar.html" timestamp="1467837407567">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="53" />
         <mark key="^" line="19" column="81" />
         <mark key="." line="19" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/resources/inbox_resources.py" timestamp="1467756048919">
+        <mark key="'" line="59" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/nevro_permanent.py" timestamp="1469216108993">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_modal.html" timestamp="1467407274593">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/consult.html" timestamp="1469212499767">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/nevro_baseline.py" timestamp="1469216011781">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/resource-action-mole.js" timestamp="1467312363614">
         <mark key="[" line="35" column="12" />
@@ -54,81 +91,6 @@
         <mark key="." line="0" column="609" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/schedule-action/schedule-action.html" timestamp="1469127771014">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/assets/templates/index.html.mako" timestamp="1467939666875">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/providers.html" timestamp="1467331685306">
-        <mark key="[" line="0" column="146" />
-        <mark key="]" line="0" column="167" />
-        <mark key="^" line="0" column="167" />
-        <mark key="." line="0" column="167" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/jackpot-scroller.js" timestamp="1467843578266">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/providers/cooley/protocols/cooley_consult.py" timestamp="1469212354086" />
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/pharma.html" timestamp="1467331667921">
-        <mark key="[" line="0" column="134" />
-        <mark key="]" line="0" column="155" />
-        <mark key="^" line="0" column="155" />
-        <mark key="." line="0" column="155" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/appointments/appointment-prompt.js" timestamp="1467841754188">
-        <mark key="'" line="118" column="105" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/base.py" timestamp="1469216086928">
-        <mark key="'" line="1" column="11" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/nav_controller.js" timestamp="1467320004781">
-        <mark key="[" line="0" column="69" />
-        <mark key="]" line="0" column="69" />
-        <mark key="^" line="0" column="78" />
-        <mark key="." line="0" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingest.py" timestamp="1467764819324">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/package.json" timestamp="1467915546483">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/industries_ctrl.js" timestamp="1467843646696">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="27" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/careers/_careers.scss" timestamp="1467843351420">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/resources/inbox_resources.py" timestamp="1467756048919">
-        <mark key="'" line="59" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/learn_more/learn_more_modal.html" timestamp="1467407274593">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="55" />
-        <mark key="^" line="11" column="55" />
-        <mark key="." line="11" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/consult.html" timestamp="1469212499767">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/nevro_baseline.py" timestamp="1469216011781">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/views/views.py" timestamp="1467939706762">
@@ -152,6 +114,18 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/assets/templates/index.html.mako" timestamp="1467939666875">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/providers.html" timestamp="1467331685306">
+        <mark key="[" line="0" column="146" />
+        <mark key="]" line="0" column="167" />
+        <mark key="^" line="0" column="167" />
+        <mark key="." line="0" column="167" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/_navbar.scss" timestamp="1467837562612">
         <mark key="[" line="50" column="4" />
         <mark key="]" line="50" column="17" />
@@ -163,6 +137,12 @@
         <mark key="]" line="36" column="63" />
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dingo/scripts/db_interpreter.py" timestamp="1469224271848">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/action-moles/promise-button.js" timestamp="1469127848463">
         <mark key="[" line="3" column="19" />
@@ -176,6 +156,11 @@
         <mark key="^" line="18" column="61" />
         <mark key="." line="18" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/jackpot-scroller.js" timestamp="1467843578266">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/general_education.html" timestamp="1469215552927">
         <mark key="'" line="0" column="0" />
       </file>
@@ -183,6 +168,33 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/industries/pharma.html" timestamp="1467331667921">
+        <mark key="[" line="0" column="134" />
+        <mark key="]" line="0" column="155" />
+        <mark key="^" line="0" column="155" />
+        <mark key="." line="0" column="155" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/components/appointments/appointment-prompt.js" timestamp="1467841754188">
+        <mark key="'" line="118" column="105" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/base.py" timestamp="1469223563043">
+        <mark key="'" line="1" column="11" />
+        <mark key="[" line="224" column="41" />
+        <mark key="]" line="224" column="45" />
+        <mark key="." line="224" column="45" />
+        <mark key="^" line="224" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/shared/navbar/nav_controller.js" timestamp="1467320004781">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="^" line="0" column="78" />
+        <mark key="." line="0" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/nevro/baseline_assessment.html" timestamp="1469223834610">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -275,62 +287,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/general_education.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/providers/nevro/protocols/nevro_baseline.py" />
       <jump line="1" column="11" filename="$USER_HOME$/Documents/welkin/providers/nevro/protocols/base.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/nevro/baseline_assessment.html" />
+      <jump line="19" column="65" filename="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/nevro/baseline_assessment.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fc21zIiwKICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fZW1haWwiLAo=</text>
+        <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwtYWN0aW9uIGFjdGlvbi10eXBlPSJ1cGxvYWRfYXR0YWNobWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlVwbG9hZCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb24tcGFyYW1zPSJ7IGRlZmF1bHRBdHRhY2htZW50OiAnY29uc2VudCcgfSI+CiAgICAgIElmIHRoZSBwYXRpZW50IGhhcyBub3QgeWV0IGdpdmVuIGNvbnNlbnQgZm9yIFNNUyBhbmQvb3IgZW1haWwgY29tbXVuaWNhdGlvbnMsIG9idGFpbiBzaWduZWQgY29uc2VudCBhbmQgdXBsb2FkIGEgcGhvdG8uCiAgICA8L3Byb21wdC12ZXJ0aWNhbC1hY3Rpb24+CiAgICA8cHJvbXB0LXZlcnRpY2FsLWFjdGlvbiBhY3Rpb24tdHlwZT0iZWRpdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlNldCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiPgogICAgICBPbmx5IGVuYWJsZSBjb21tdW5pY2F0aW9uIGNvbnNlbnRzIHRoYXQgeW91IGhhdmUgcmVjZWl2ZWQgcmVjb3JkZWQsIGluZm9ybWVkIGNvbnNlbnQgZm9yLgogICAgPC9wcm9tcHQtdmVydGljYWwtYWN0aW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>actions</text>
+        <text>consent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwtYWN0aW9uIGFjdGlvbi10eXBlPSJlbWFpbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlNlbmQgTWF0ZXJpYWxzIj4KICAgICAgU2VuZCBlZHVjYXRpb25hbCBtYXRlcmlhbHMgdmlhIGVtYWlsIGlmIG5lY2Vzc2FyeS4KICAgIDwvcHJvbXB0LXZlcnRpY2FsLWFjdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fc21zIiwKICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fZW1haWwiLAo=</text>
+        <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwtYWN0aW9uIGFjdGlvbi10eXBlPSJ1cGxvYWRfYXR0YWNobWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlVwbG9hZCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb24tcGFyYW1zPSJ7IGRlZmF1bHRBdHRhY2htZW50OiAnY29uc2VudCcgfSI+CiAgICAgIElmIHRoZSBwYXRpZW50IGhhcyBub3QgeWV0IGdpdmVuIGNvbnNlbnQgZm9yIFNNUyBhbmQvb3IgZW1haWwgY29tbXVuaWNhdGlvbnMsIG9idGFpbiBzaWduZWQgY29uc2VudCBhbmQgdXBsb2FkIGEgcGhvdG8uCiAgICA8L3Byb21wdC12ZXJ0aWNhbC1hY3Rpb24+CiAgICA8cHJvbXB0LXZlcnRpY2FsLWFjdGlvbiBhY3Rpb24tdHlwZT0iZWRpdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlNldCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiPgogICAgICBPbmx5IGVuYWJsZSBjb21tdW5pY2F0aW9uIGNvbnNlbnRzIHRoYXQgeW91IGhhdmUgcmVjZWl2ZWQgcmVjb3JkZWQsIGluZm9ybWVkIGNvbnNlbnQgZm9yLgogICAgPC9wcm9tcHQtdmVydGljYWwtYWN0aW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAiL29wdGVkX2luX3RvX3NtcyIsCiAgICAgICAgICAgICAgICAgIi9vcHRlZF9pbl90b19lbWFpbCIsCg==</text>
+        <text encoding="base64">ICAgICAgPGxpPkdhaW4gUGF0aWVudCBDb25zZW50IGZvciBTTVMgJmFtcDsgRW1haWwgY29tbXVuaWNhdGlvbnM8L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fc21zIiwKICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fZW1haWwiLAo=</text>
+        <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwtYWN0aW9uIGFjdGlvbi10eXBlPSJ1cGxvYWRfYXR0YWNobWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlVwbG9hZCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb24tcGFyYW1zPSJ7IGRlZmF1bHRBdHRhY2htZW50OiAnY29uc2VudCcgfSI+CiAgICAgIElmIHRoZSBwYXRpZW50IGhhcyBub3QgeWV0IGdpdmVuIGNvbnNlbnQgZm9yIFNNUyBhbmQvb3IgZW1haWwgY29tbXVuaWNhdGlvbnMsIG9idGFpbiBzaWduZWQgY29uc2VudCBhbmQgdXBsb2FkIGEgcGhvdG8uCiAgICA8L3Byb21wdC12ZXJ0aWNhbC1hY3Rpb24+CiAgICA8cHJvbXB0LXZlcnRpY2FsLWFjdGlvbiBhY3Rpb24tdHlwZT0iZWRpdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IlNldCBQYXRpZW50IENvbW11bmljYXRpb24gQ29uc2VudHMiPgogICAgICBPbmx5IGVuYWJsZSBjb21tdW5pY2F0aW9uIGNvbnNlbnRzIHRoYXQgeW91IGhhdmUgcmVjZWl2ZWQgcmVjb3JkZWQsIGluZm9ybWVkIGNvbnNlbnQgZm9yLgogICAgPC9wcm9tcHQtdmVydGljYWwtYWN0aW9uPgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPCEtLTxsaT5HYWluIFBhdGllbnQgQ29uc2VudCBmb3IgU01TICZhbXA7IEVtYWlsIGNvbW11bmljYXRpb25zPC9saT4tLT4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fc21zIiwKICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fZW1haWwiLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAiL29wdGVkX2luX3RvX3NtcyIsCiAgICAgICAgICAgICAgICAgIi9vcHRlZF9pbl90b19lbWFpbCIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fc21zIiwKICAgICAgICAgICAgICAgICIvb3B0ZWRfaW5fdG9fZW1haWwiLAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDxwcm9tcHQtdmVydGljYWwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>^</text>
-      </register>
-      <register name="6" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="7" type="4">
-        <text>,</text>
-      </register>
-      <register name="8" type="4">
-        <text>^</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICJwb3N0Y3NzLWJydW5jaCI6ICJeMC40LjIiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>actions</last-search>
+      <last-search>consent</last-search>
       <last-offset />
-      <last-pattern>actions</last-pattern>
+      <last-pattern>consent</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>inbox</entry>
-        <entry>Inbox</entry>
         <entry>content</entry>
         <entry>attr</entry>
         <entry>automatic</entry>
@@ -349,6 +361,8 @@
         <entry>TODO</entry>
         <entry>patient</entry>
         <entry>actions</entry>
+        <entry>comm</entry>
+        <entry>consent</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
