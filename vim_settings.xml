@@ -198,11 +198,11 @@
         <mark key="]" line="46" column="29" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/main.yml" timestamp="1479540338476">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="17" />
+      <file name="$USER_HOME$/mac-dev-playbook/main.yml" timestamp="1479541282875">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/consult.html" timestamp="1469225916262">
         <mark key="[" line="43" column="0" />
@@ -309,10 +309,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: {{ python_packages_to_install }}&quot;</text>
+        <text>~/.ssh/authorized_keys</text>
       </register>
       <register name="-" type="4">
-        <text>: {{ python_packages_to_install }}&quot;</text>
+        <text>~/.ssh/authorized_keys</text>
       </register>
       <register name="/" type="4">
         <text>chart_widgets</text>
