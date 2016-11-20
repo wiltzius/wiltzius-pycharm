@@ -68,6 +68,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/mac-dev-playbook/tasks/welkin-tasks.yml" timestamp="1479600352595">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/hf_followup_priority.html" timestamp="1469225947100">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="45" column="29" />
@@ -101,11 +107,11 @@
         <mark key="." line="80" column="21" />
         <mark key="^" line="80" column="21" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/vars/welkin.yml" timestamp="1479537301299">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
+      <file name="$USER_HOME$/mac-dev-playbook/vars/welkin.yml" timestamp="1479599719376">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/hf_followup.html" timestamp="1469225943860">
         <mark key="[" line="42" column="0" />
@@ -198,11 +204,11 @@
         <mark key="]" line="46" column="29" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/main.yml" timestamp="1479541282875">
+      <file name="$USER_HOME$/mac-dev-playbook/main.yml" timestamp="1479599904814">
         <mark key="[" line="23" column="34" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="38" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/consult.html" timestamp="1469225916262">
         <mark key="[" line="43" column="0" />
@@ -308,44 +314,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/dingo/scripts/seeddb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>~/.ssh/authorized_keys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGV2IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>~/.ssh/authorized_keys</text>
+        <text encoding="base64">ZGV2IA==</text>
       </register>
       <register name="/" type="4">
         <text>chart_widgets</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aG9tZWJyZXdfaW5zdGFsbGVkX3BhY2thZ2VzOgogIC0gZ2l0CiAgLSBncGcKICAtIHB5dGhvbgogIC0gc3FsaXRlCiAgLSBubWFwCiAgLSBucG0KICAtIHdnZXQK</text>
+        <text encoding="base64">LSBuYW1lOiAiQ3JlYXRlIFdlbGtpbiB0ZXN0IHBvc3RncmVzIGRhdGFiYXNlIgogIHBvc3RncmVzcWxfZGI6IG5hbWU9d2Vsa2luX3Rlc3QK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmFtZTogaW5zdGFsbCBnbG9iYWwgcGlwIHBhY2thZ2VzCiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGV2IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgLSAub3N4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBjbG9uZT15ZXMK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAtIGdwZwogIC0gcHl0aG9uCiAgLSBzcWxpdGUKICAtIG5tYXAKICAtIG5wbQogIC0gd2dldAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">bmFtZTogaW5zdGFsbCBnbG9iYWwgcGlwIHBhY2thZ2VzCiA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgLSB3cmsK</text>
+        <text encoding="base64">IyAgLSAub3N4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgLSBudm0KIyAgLSBwaHA3MAojICAtIHBocDcwLW1jcnlwdAojICAtIHBocDcwLXhkZWJ1ZwojICAtIHNzaC1jb3B5LWlkCiMgIC0gY293c2F5CiMgIC0gcmVhZGxpbmUKIyAgLSBzdWJ2ZXJzaW9uCiMgIC0gb3BlbnNzbAojICAtIHB2CiMgIC0gZHJ1c2gK</text>
+        <text encoding="base64">ICAtIGdwZwogIC0gcHl0aG9uCiAgLSBzcWxpdGUKICAtIG5tYXAKICAtIG5wbQogIC0gd2dldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgLSBteXNxbAo=</text>
+        <text encoding="base64">IyAgLSB3cmsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgLSBtY3J5cHQK</text>
+        <text encoding="base64">IyAgLSBudm0KIyAgLSBwaHA3MAojICAtIHBocDcwLW1jcnlwdAojICAtIHBocDcwLXhkZWJ1ZwojICAtIHNzaC1jb3B5LWlkCiMgIC0gY293c2F5CiMgIC0gcmVhZGxpbmUKIyAgLSBzdWJ2ZXJzaW9uCiMgIC0gb3BlbnNzbAojICAtIHB2CiMgIC0gZHJ1c2gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgLSBnbwo=</text>
+        <text encoding="base64">IyAgLSBteXNxbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgLSBodWIKIyAgLSBodHRwaWUKIyAgLSBpcGVyZgojICAtIGxpYmR2ZGNzcwojICAtIGxpYmV2ZW50CiMgIC0gcGFja2VyCg==</text>
+        <text encoding="base64">IyAgLSBtY3J5cHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
