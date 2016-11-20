@@ -68,22 +68,22 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/tasks/welkin-tasks.yml" timestamp="1479600352595">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="34" />
+      <file name="$USER_HOME$/mac-dev-playbook/tasks/welkin-tasks.yml" timestamp="1479603802907">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/hf_followup_priority.html" timestamp="1469225947100">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="45" column="29" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/vars/main.yml" timestamp="1479538522544">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
+      <file name="$USER_HOME$/mac-dev-playbook/vars/main.yml" timestamp="1479600509629">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="43" column="6" />
+        <mark key="." line="43" column="6" />
+        <mark key="^" line="43" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/nevro_permanent.py" timestamp="1469216108993">
         <mark key="[" line="18" column="0" />
@@ -107,8 +107,7 @@
         <mark key="." line="80" column="21" />
         <mark key="^" line="80" column="21" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/vars/welkin.yml" timestamp="1479599719376">
-        <mark key="[" line="2" column="12" />
+      <file name="$USER_HOME$/mac-dev-playbook/vars/welkin.yml" timestamp="1479600544905">
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
@@ -169,16 +168,17 @@
         <mark key="]" line="45" column="29" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/vars/python.yml" timestamp="1479540351380">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+      <file name="$USER_HOME$/mac-dev-playbook/vars/python.yml" timestamp="1479601352461">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/tasks/python.yml" timestamp="1479539208632">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="2" />
+      <file name="$USER_HOME$/mac-dev-playbook/tasks/python.yml" timestamp="1479602795970">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/coach/schedule.html" timestamp="1469127763086">
         <mark key="'" line="0" column="0" />
@@ -204,11 +204,11 @@
         <mark key="]" line="46" column="29" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/main.yml" timestamp="1479599904814">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/mac-dev-playbook/main.yml" timestamp="1479604611891">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="19" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/consult.html" timestamp="1469225916262">
         <mark key="[" line="43" column="0" />
@@ -314,11 +314,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/dingo/scripts/seeddb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGV2IAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHVwZGF0ZV9ob21lYnJldz15ZXM=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGV2IA==</text>
+        <text encoding="base64">IHVwZGF0ZV9ob21lYnJldz15ZXM=</text>
       </register>
       <register name="/" type="4">
         <text>chart_widgets</text>
@@ -327,31 +327,31 @@
         <text encoding="base64">LSBuYW1lOiAiQ3JlYXRlIFdlbGtpbiB0ZXN0IHBvc3RncmVzIGRhdGFiYXNlIgogIHBvc3RncmVzcWxfZGI6IG5hbWU9d2Vsa2luX3Rlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGV2IAo=</text>
+        <text encoding="base64">ICAgIC0gdmFycy9weXRob24ueW1sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBjbG9uZT15ZXMK</text>
+        <text encoding="base64">ICAjLSB2bGMK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bmFtZTogaW5zdGFsbCBnbG9iYWwgcGlwIHBhY2thZ2VzCiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">IyAgLSBjYXNrcm9vbS9jYXNrCiMgIC0gaG9tZWJyZXcvYmluYXJ5CiMgIC0gaG9tZWJyZXcvZHVwZXMKIyAgLSBob21lYnJldy9waHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgLSAub3N4Cg==</text>
+        <text encoding="base64">ZGV2IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIGdwZwogIC0gcHl0aG9uCiAgLSBzcWxpdGUKICAtIG5tYXAKICAtIG5wbQogIC0gd2dldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICBjbG9uZT15ZXMK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgLSB3cmsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">bmFtZTogaW5zdGFsbCBnbG9iYWwgcGlwIHBhY2thZ2VzCiA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgLSBudm0KIyAgLSBwaHA3MAojICAtIHBocDcwLW1jcnlwdAojICAtIHBocDcwLXhkZWJ1ZwojICAtIHNzaC1jb3B5LWlkCiMgIC0gY293c2F5CiMgIC0gcmVhZGxpbmUKIyAgLSBzdWJ2ZXJzaW9uCiMgIC0gb3BlbnNzbAojICAtIHB2CiMgIC0gZHJ1c2gK</text>
+        <text encoding="base64">IyAgLSAub3N4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgLSBteXNxbAo=</text>
+        <text encoding="base64">ICAtIGdwZwogIC0gcHl0aG9uCiAgLSBzcWxpdGUKICAtIG5tYXAKICAtIG5wbQogIC0gd2dldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgLSBtY3J5cHQK</text>
+        <text encoding="base64">IyAgLSB3cmsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -388,6 +388,7 @@
         <entry>chart_widgets</entry>
       </history-search>
       <history-cmd>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
