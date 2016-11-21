@@ -74,12 +74,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/tasks/welkin-tasks.yml" timestamp="1479704994087">
-        <mark key="'" line="72" column="4" />
+      <file name="$USER_HOME$/mac-dev-playbook/tasks/welkin-tasks.yml" timestamp="1479706126225">
+        <mark key="'" line="66" column="4" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/hf_followup_priority.html" timestamp="1469225947100">
         <mark key="[" line="42" column="0" />
@@ -330,7 +329,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIG5wbQo=</text>
+        <text encoding="base64">CiMgQ29uZmlndXJlIHlvdXIgQVdTIGNyZWRzCgotIG5hbWU6IENvbmZpZ3VyZSBBV1MgY3JlZGVudGlhbHMKICBzaGVsbDogYXdzIGNvbmZpZ3VyZQoK</text>
       </register>
       <register name="-" type="4">
         <text>ENV</text>
@@ -342,31 +341,31 @@
         <text encoding="base64">ICAgIC0gZ2l0OiByZXBvPWh0dHBzOi8vZ2l0aHViLmNvbS93ZWxraW5oZWFsdGgvd2Vsa2luLmdpdAogICAgICAgICAgIGRlc3Q9fi9Eb2N1bWVudHMvd2Vsa2luCiAgICAgICAgICAgdXBkYXRlPW5vCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIG5wbQo=</text>
+        <text encoding="base64">CiMgQ29uZmlndXJlIHlvdXIgQVdTIGNyZWRzCgotIG5hbWU6IENvbmZpZ3VyZSBBV1MgY3JlZGVudGlhbHMKICBzaGVsbDogYXdzIGNvbmZpZ3VyZQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIG5wbQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgYWNjZXB0X2hvc3RrZXk9VHJ1ZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZmlsZTogcGF0aD1+Ly5zc2ggc3RhdGU9ZGlyZWN0b3J5CiAgICAtIGZpbGU6IHBhdGg9fi8uc3NoL2F1dGhvcml6ZWRfa2V5cwogICAgICAgICAgICBzdGF0ZT10b3VjaAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyAgICAgICAgICAgYWNjZXB0X2hvc3RrZXk9VHJ1ZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC0gZmlsZTogcGF0aD1+Ly5zc2ggc3RhdGU9ZGlyZWN0b3J5CiAgICAtIGZpbGU6IHBhdGg9fi8uc3NoL2F1dGhvcml6ZWRfa2V5cwogICAgICAgICAgICBzdGF0ZT10b3VjaAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgc2hlbGw6Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIFdlbGtpbgo=</text>
+        <text encoding="base64">IyAgc2hlbGw6Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZ2l0OiByZXBvPWh0dHBzOi8vZ2l0aHViLmNvbS93ZWxraW5oZWFsdGgvd2Vsa2luLmdpdAogICAgICAgICAgIGRlc3Q9fi9Eb2N1bWVudHMvd2Vsa2luCiAgICAgICAgICAgdXBkYXRlPW5vCg==</text>
+        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIFdlbGtpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gaW5jbHVkZTogdGFza3MvcHl0aG9uLnltbAo=</text>
+        <text encoding="base64">ICAgIC0gZ2l0OiByZXBvPWh0dHBzOi8vZ2l0aHViLmNvbS93ZWxraW5oZWFsdGgvd2Vsa2luLmdpdAogICAgICAgICAgIGRlc3Q9fi9Eb2N1bWVudHMvd2Vsa2luCiAgICAgICAgICAgdXBkYXRlPW5vCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
