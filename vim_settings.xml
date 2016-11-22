@@ -22,6 +22,12 @@
         <mark key="]" line="44" column="29" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/numbat/jobs/welcome_message_job.py" timestamp="1479791602301">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/numbat/celery.py" timestamp="1479708366226">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="2" column="20" />
@@ -79,7 +85,6 @@
         <mark key="]" line="45" column="29" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/kangaroo/jobs/__init__.py" timestamp="1479709744708" />
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/hf_assessment.html" timestamp="1469225870330">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="45" column="29" />
@@ -106,11 +111,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/task_user.py" timestamp="1479708920234">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/welkin/task_user.py" timestamp="1479791559700">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/hf_followup_priority.html" timestamp="1469225891570">
         <mark key="[" line="42" column="0" />
@@ -131,6 +137,12 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/numbat/__init__.py" timestamp="1479790795437">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/schedule-action/schedule-action.html" timestamp="1469127771014">
         <mark key="'" line="0" column="0" />
       </file>
@@ -146,12 +158,12 @@
         <mark key="]" line="46" column="29" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/numbat/celery_app.py" timestamp="1479709613881">
-        <mark key="'" line="3" column="55" />
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="3" column="55" />
-        <mark key="^" line="3" column="55" />
-        <mark key="." line="3" column="55" />
+      <file name="$USER_HOME$/Documents/welkin/numbat/celery_app.py" timestamp="1479790764697">
+        <mark key="'" line="2" column="55" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="55" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/jackpot-scroller.js" timestamp="1467843578266">
         <mark key="[" line="49" column="0" />
@@ -201,6 +213,15 @@
       </file>
       <file name="/Dummy.txt" timestamp="1479708788827">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/dingo/lib/job/job.py" timestamp="1479790423699">
+        <mark key="'" line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/numbat/jobs/__init__.py" timestamp="1479790814704">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/appointments/appointment-prompt.js" timestamp="1467841754188">
         <mark key="'" line="118" column="105" />
@@ -268,9 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="38" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
-      <jump line="326" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
-      <jump line="64" column="23" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="92" column="18" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="118" column="2" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="49" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
@@ -367,13 +385,17 @@
       <jump line="64" column="4" filename="$USER_HOME$/mac-dev-playbook/tasks/welkin-tasks.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/welkin/requirements.txt" />
       <jump line="3" column="55" filename="$USER_HOME$/Documents/welkin/numbat/celery_app.py" />
+      <jump line="22" column="7" filename="$USER_HOME$/Documents/welkin/numbat/jobs/welcome_message_job.py" />
+      <jump line="5" column="6" filename="$USER_HOME$/Documents/welkin/dingo/lib/job/job.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/welkin/numbat/jobs/welcome_message_job.py" />
+      <jump line="0" column="11" filename="$USER_HOME$/Documents/welkin/task_user.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGJhY2tlbmQ9J2RiKycgKyBDb25maWcoKS5kYXRhYmFzZV91cmwoKSk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAc3RhdGljbWV0aG9kCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJhY2tlbmQ9J2RiKycgKyBDb25maWcoKS5kYXRhYmFzZV91cmwoKSk=</text>
+        <text>schedule_welcome_message</text>
       </register>
       <register name="/" type="4">
         <text>chart_widgets</text>
@@ -382,31 +404,31 @@
         <text encoding="base64">ICAgIC0gZ2l0OiByZXBvPWh0dHBzOi8vZ2l0aHViLmNvbS93ZWxraW5oZWFsdGgvd2Vsa2luLmdpdAogICAgICAgICAgIGRlc3Q9fi9Eb2N1bWVudHMvd2Vsa2luCiAgICAgICAgICAgdXBkYXRlPW5vCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAc3RhdGljbWV0aG9kCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQgY2VsZXJ5X2FwcC5fX2ZpbGVfXwo=</text>
+        <text encoding="base64">CgpjbGFzcyBXZWxjb21lTWVzc2FnZUpvYihKb2IpOgoKICBAY2xhc3NtZXRob2QKICBkZWYgc2NoZWR1bGVfd2VsY29tZV9tZXNzYWdlKGNscywgdXNlcl9pZCk6CiAgICBwYXlsb2FkID0gewogICAgICAndXNlcl9pZCc6IHVzZXJfaWQKICAgIH0KICAgIGNscy5leGVjdXRlLmRlbGF5KHBheWxvYWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMgQ29uZmlndXJlIHlvdXIgQVdTIGNyZWRzCgotIG5hbWU6IENvbmZpZ3VyZSBBV1MgY3JlZGVudGlhbHMKICBzaGVsbDogYXdzIGNvbmZpZ3VyZQoK</text>
+        <text encoding="base64">ICBAc3RhdGljbWV0aG9kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIG5wbQo=</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBmcm9tIGRpbmdvIGltcG9ydCBkYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgYWNjZXB0X2hvc3RrZXk9VHJ1ZQo=</text>
+        <text encoding="base64">V2VsY29tZU1lc3NhZ2VKb2Iuc2NoZWR1bGVfd2VsY29tZV9tZXNzYWdlKHVzZXJfaWQ9ZGIuVXNlci5nZXRfYW55KCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZmlsZTogcGF0aD1+Ly5zc2ggc3RhdGU9ZGlyZWN0b3J5CiAgICAtIGZpbGU6IHBhdGg9fi8uc3NoL2F1dGhvcml6ZWRfa2V5cwogICAgICAgICAgICBzdGF0ZT10b3VjaAo=</text>
+        <text encoding="base64">YWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBudW1iYXQuY2VsZXJ5X2FwcCBpbXBvcnQgYWRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
