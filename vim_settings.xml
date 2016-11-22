@@ -12,21 +12,12 @@
       <file name="/a.dummy" timestamp="1479708374044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/nevro/trial_procedure.html" timestamp="1469224055616">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/general_assessment.html" timestamp="1469225849609">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/numbat/jobs/welcome_message_job.py" timestamp="1479791602301">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/welkin/numbat/jobs/welcome_message_job.py" timestamp="1479795143726">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/numbat/celery.py" timestamp="1479708366226">
         <mark key="[" line="0" column="7" />
@@ -41,16 +32,6 @@
         <mark key="^" line="132" column="23" />
         <mark key="." line="132" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/general_followup.html" timestamp="1469225929880">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/hf_education.html" timestamp="1469225940905">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/mac-dev-playbook/vars/main.yml" timestamp="1479705034754">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -59,11 +40,6 @@
       </file>
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/nevro_baseline.py" timestamp="1469216011781">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/general_assessment.html" timestamp="1469225921571">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/mac-dev-playbook/requirements.txt" timestamp="1479539245957">
         <mark key="[" line="0" column="0" />
@@ -80,56 +56,21 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/hf_followup.html" timestamp="1469225943860">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/hf_assessment.html" timestamp="1469225870330">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/home.html" timestamp="1469225895230">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/general_followup_priority.html" timestamp="1469225934306">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/mac-dev-playbook/vars/python.yml" timestamp="1479601352461">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/mac-dev-playbook/tasks/python.yml" timestamp="1479626840196">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/task_user.py" timestamp="1479791559700">
+      <file name="$USER_HOME$/Documents/welkin/task_user.py" timestamp="1479794826273">
         <mark key="'" line="0" column="11" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="34" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/hf_followup_priority.html" timestamp="1469225891570">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/resources/inbox_resources.py" timestamp="1467756048919">
         <mark key="'" line="59" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/transition.html" timestamp="1469225899340">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/mac-dev-playbook/main.yml" timestamp="1479627123750">
         <mark key="[" line="27" column="0" />
@@ -153,22 +94,12 @@
         <mark key="." line="197" column="45" />
         <mark key="^" line="224" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/outreach.html" timestamp="1469225951539">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/numbat/celery_app.py" timestamp="1479790764697">
-        <mark key="'" line="2" column="55" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="55" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/app/home/jackpot-scroller.js" timestamp="1467843578266">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Documents/welkin/numbat/celery_app.py" timestamp="1479794351778">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/requirements.txt" timestamp="1479708498898">
         <mark key="'" line="0" column="0" />
@@ -177,23 +108,12 @@
         <mark key="^" line="98" column="19" />
         <mark key="." line="98" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/hf_followup.html" timestamp="1469225886846">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/welkin/dingo/scripts/template_for_scripts.py" timestamp="1479793283721">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/providers/nevro/scripts/ingestcoaches.py" timestamp="1467764504492">
         <mark key="'" line="22" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/transition.html" timestamp="1469225956850">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/nevro/baseline_assessment.html" timestamp="1469223834610">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/mac-dev-playbook/tasks/welkin-tasks.yml" timestamp="1479706126225">
         <mark key="'" line="66" column="4" />
@@ -201,27 +121,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/hf_followup_priority.html" timestamp="1469225947100">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/providers/nevro/protocols/nevro_permanent.py" timestamp="1469216108993">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1479708788827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dingo/lib/job/job.py" timestamp="1479790423699">
         <mark key="'" line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/numbat/jobs/__init__.py" timestamp="1479790814704">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+      <file name="$USER_HOME$/Documents/welkin/numbat/jobs/__init__.py" timestamp="1479794781357">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/appointments/appointment-prompt.js" timestamp="1467841754188">
         <mark key="'" line="118" column="105" />
@@ -232,38 +142,8 @@
         <mark key="." line="20" column="55" />
         <mark key="^" line="20" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/hf_education.html" timestamp="1469225882928">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/general_education.html" timestamp="1469225925535">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/general_followup.html" timestamp="1469225861095">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/platypus/client/app/about/_about.scss" timestamp="1467843333345">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/cooley/general_followup_priority.html" timestamp="1469225864976">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/platypus/client/styles/_base.scss" timestamp="1467843767341">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/visit/nevro/baseline_assessment.html" timestamp="1469223955657">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/coach/schedule.html" timestamp="1469127763086">
         <mark key="'" line="0" column="0" />
@@ -271,27 +151,20 @@
       <file name="$USER_HOME$/Documents/welkin/dingo/scripts/seeddb.py" timestamp="1469230494564">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/hf_assessment.html" timestamp="1469225937289">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/welkin/numbat/task.py" timestamp="1479708903101">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dugong/client/partials/prompts/call/cooley/consult.html" timestamp="1469225916262">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Documents/welkin/numbat/bootstrap.py" timestamp="1479793763538">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="18" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
-      <jump line="118" column="2" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
-      <jump line="49" column="26" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/home.html" />
       <jump line="12" column="19" filename="$USER_HOME$/Documents/welkin/platypus/client/app/app.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
       <jump line="320" column="0" filename="$USER_HOME$/Documents/welkin/platypus/client/app/home/_home.scss" />
@@ -389,10 +262,13 @@
       <jump line="5" column="6" filename="$USER_HOME$/Documents/welkin/dingo/lib/job/job.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/welkin/numbat/jobs/welcome_message_job.py" />
       <jump line="0" column="11" filename="$USER_HOME$/Documents/welkin/task_user.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/welkin/numbat/celery_app.py" />
+      <jump line="4" column="32" filename="$USER_HOME$/Documents/welkin/numbat/jobs/welcome_message_job.py" />
+      <jump line="12" column="9" filename="$USER_HOME$/Documents/welkin/numbat/jobs/welcome_message_job.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAc3RhdGljbWV0aG9kCg==</text>
+      <register name="&quot;" type="4">
+        <text>schedule_welcome_message</text>
       </register>
       <register name="-" type="4">
         <text>schedule_welcome_message</text>
@@ -401,34 +277,34 @@
         <text>chart_widgets</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gZ2l0OiByZXBvPWh0dHBzOi8vZ2l0aHViLmNvbS93ZWxraW5oZWFsdGgvd2Vsa2luLmdpdAogICAgICAgICAgIGRlc3Q9fi9Eb2N1bWVudHMvd2Vsa2luCiAgICAgICAgICAgdXBkYXRlPW5vCg==</text>
+        <text encoding="base64">ICBkZWYgcnVuKG9wdGlvbnMpOgogICAgZGIuVXNlclRhZy5jcmVhdGUodXNlcl9pZD1vcHRpb25zWyd1c2VyX2lkJ10sIHRhZ19uYW1lPSdudW1iYXRfam9iJywgdGFnX3ZhbHVlPSdhJykKICAgIHByaW50ICdPSyEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAc3RhdGljbWV0aG9kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpjbGFzcyBXZWxjb21lTWVzc2FnZUpvYihKb2IpOgoKICBAY2xhc3NtZXRob2QKICBkZWYgc2NoZWR1bGVfd2VsY29tZV9tZXNzYWdlKGNscywgdXNlcl9pZCk6CiAgICBwYXlsb2FkID0gewogICAgICAndXNlcl9pZCc6IHVzZXJfaWQKICAgIH0KICAgIGNscy5leGVjdXRlLmRlbGF5KHBheWxvYWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAc3RhdGljbWV0aG9kCg==</text>
+        <text encoding="base64">Y2xhc3MgV2VsY29tZU1lc3NhZ2VKb2IoV2Vsa2luVGFzayk6CiAgQGNsYXNzbWV0aG9kCiAgZGVmIHNjaGVkdWxlX3dlbGNvbWVfbWVzc2FnZShjbHMsIHVzZXJfaWQpOgogICAgcGF5bG9hZCA9IHsKICAgICAgJ3VzZXJfaWQnOiB1c2VyX2lkCiAgICB9CiAgICBjbHMuZXhlY3V0ZS5kZWxheShwYXlsb2FkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBmcm9tIGRpbmdvIGltcG9ydCBkYgo=</text>
+        <text encoding="base64">CiAgIyBkZWYgcnVuKG9wdGlvbnMpOgogICMgICBkYi5Vc2VyVGFnLmNyZWF0ZSh1c2VyX2lkPW9wdGlvbnNbJ3VzZXJfaWQnXSwgdGFnX25hbWU9J251bWJhdF9qb2InLCB0YWdfdmFsdWU9J2EnKQogICMgICBwcmludCAnT0shJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V2VsY29tZU1lc3NhZ2VKb2Iuc2NoZWR1bGVfd2VsY29tZV9tZXNzYWdlKHVzZXJfaWQ9ZGIuVXNlci5nZXRfYW55KCkpCg==</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBudW1iYXQuY2VsZXJ5X2FwcCBpbXBvcnQgYWRkCg==</text>
+        <text encoding="base64">CiMgVE9ETyBhdXRvaW1wb3J0IGV2ZXJ5dGhpbmcgaW4gdGhpcyBmb2xkZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
