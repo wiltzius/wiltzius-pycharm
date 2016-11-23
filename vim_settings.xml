@@ -9,11 +9,11 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/numbat/__init__.py" timestamp="1479790795437">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="18" />
+      <file name="$USER_HOME$/Documents/welkin/numbat/__init__.py" timestamp="1479880899998">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/dugong/client/components/schedule-action/schedule-action.html" timestamp="1469127771014">
         <mark key="'" line="0" column="0" />
@@ -62,7 +62,7 @@
         <mark key="^" line="132" column="23" />
         <mark key="." line="132" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/dingo/scripts/template_for_scripts.py" timestamp="1479793283721">
+      <file name="$USER_HOME$/Documents/welkin/dingo/scripts/template_for_scripts.py" timestamp="1479882131340">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="13" column="26" />
       </file>
@@ -129,6 +129,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/welkin/firstjob.py" timestamp="1479882466007">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/welkin/task_user.py" timestamp="1479841200788">
         <mark key="'" line="4" column="48" />
         <mark key="[" line="4" column="43" />
@@ -162,6 +168,18 @@
         <mark key="]" line="27" column="0" />
         <mark key="^" line="23" column="40" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/mrjob/mrjob.conf" timestamp="1479882641812">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="66" />
+        <mark key="^" line="3" column="66" />
+        <mark key="." line="3" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/welkin/numbat/readme.txt" timestamp="1479880936156">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -268,43 +286,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Foo</text>
+        <text encoding="base64">PHlvdXIgc2VjcmV0Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>Foo</text>
+        <text encoding="base64">PHlvdXIgc2VjcmV0Pg==</text>
       </register>
       <register name="/" type="4">
         <text>chart_widgets</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgcnVuKG9wdGlvbnMpOgogICAgZGIuVXNlclRhZy5jcmVhdGUodXNlcl9pZD1vcHRpb25zWyd1c2VyX2lkJ10sIHRhZ19uYW1lPSdudW1iYXRfam9iJywgdGFnX3ZhbHVlPSdhJykKICAgIHByaW50ICdPSyEnCg==</text>
+        <text encoding="base64">ICBlbmdpbmUgPSBjcmVhdGVfZW5naW5lKENvbmZpZygpLmRhdGFiYXNlX3VybCgpLCBwb29sX3NpemU9MTAsIHBvb2xfcmVjeWNsZT0zNjAwKQogIERCU2Vzc2lvbi5jb25maWd1cmUoYmluZD1lbmdpbmUpCiAgZGluZ28uY29uZmlndXJlKENvbmZpZygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgIHlpZWxkICJjaGFycyIsIGxlbihsaW5lKQogICAgeWllbGQgIndvcmRzIiwgbGVuKGxpbmUuc3BsaXQoKSkKICAgIHlpZWxkICJsaW5lcyIsIDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgRm9vKG9iamVjdCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bnVtYmF0IGNvbnRhaW5zIGl0cyBvd24gZGIgY2xhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGFwcC50YXNrCg==</text>
+        <text encoding="base64">bnVtYmF0IGRlcGVuZHMgb24gbm90aGluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAYmVmb3JlaG9vawo=</text>
+        <text encoding="base64">IyBpbXBvcnQgam9icyAgICNub3FhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGFwcC50YXNrCg==</text>
+        <text encoding="base64">Y2xhc3MgRm9vKG9iamVjdCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGJlZm9yZWhvb2sK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludCBzZWxmLl9fY2xhc3NfXwogIHByaW50IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fCg==</text>
+        <text encoding="base64">QGFwcC50YXNrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
