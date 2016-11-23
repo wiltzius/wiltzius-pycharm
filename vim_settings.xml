@@ -169,11 +169,11 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/welkin/mrjob/mrjob.conf" timestamp="1479882641812">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="3" column="66" />
-        <mark key="^" line="3" column="66" />
-        <mark key="." line="3" column="66" />
+      <file name="$USER_HOME$/Documents/welkin/mrjob/mrjob.conf" timestamp="1479883990468">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/welkin/numbat/readme.txt" timestamp="1479880936156">
         <mark key="[" line="1" column="0" />
@@ -286,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHlvdXIgc2VjcmV0Pg==</text>
+        <text>../requirements.txt</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHlvdXIgc2VjcmV0Pg==</text>
+        <text>../requirements.txt</text>
       </register>
       <register name="/" type="4">
         <text>chart_widgets</text>
